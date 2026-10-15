@@ -1,0 +1,188 @@
+{
+  "issues": [
+    {
+      "date": "2026-10-15",
+      "title": "从看见风险，到约束行动",
+      "intro": "本期关注 Agent 独立评测、物理设备的执行权限，以及跨机构安全合作。最值得细读的是 METR 对监控系统可靠性的五个问题。",
+      "window": "2026-10-14 10:20 — 2026-10-15 10:20（北京时间；沿用原简报窗口）",
+      "note": "原文均标注 10 月 14 日，但未全部公开精确时间，不能严格确认处于 24 小时边界内。今日三项已重新打开一手原文核验。未来简报以北京时间 09:00 为截止点。",
+      "articles": [
+        {
+          "id": "metr-monitoring",
+          "title": "METR：如何独立评测 Agent 的监控与控制？",
+          "category": "研究",
+          "source": "METR",
+          "publishedDate": "2026-10-14",
+          "importance": 5,
+          "evidence": "已核验一手来源",
+          "summary": "METR 提出评估内部 AI Agent 控制措施的方法：除了模型本身，还应检查监控覆盖范围、监控系统能否被破坏、危险行为能否绕过检测，以及人工响应与潜在影响。",
+          "why": "监控有日志，不代表覆盖完整；监控发出告警，也不等于风险已被阻止。该提案为运行时安全评测提供了具体问题。",
+          "limitations": "这是研究技术提案，不是同行评审结论，也不表示所有前沿公司已完整实施。可靠评测需要访问真实执行轨迹和内部基础设施。",
+          "points": [
+            "Coverage：哪些 Agent 与工具调用受到监控？",
+            "Vulnerabilities / Evasion：Agent 能否破坏或绕过监控？",
+            "Response / Impact：告警能否得到处理，遗漏的后果是什么？"
+          ],
+          "tags": [
+            "AI Control",
+            "Runtime Monitoring",
+            "Evaluation"
+          ],
+          "links": [
+            {
+              "label": "阅读 METR 原文",
+              "url": "https://metr.org/blog/2026-10-14-control-assessment-proposal/"
+            }
+          ]
+        },
+        {
+          "id": "cisco-edge",
+          "title": "Cisco 将 Agent 安全控制延伸到物理设备",
+          "category": "工程",
+          "source": "Cisco",
+          "publishedDate": "2026-10-14",
+          "importance": 4,
+          "evidence": "已核验一手来源",
+          "summary": "DefenseClaw Edge Connector 在边缘设备上检查工具调用，通过允许、阻止或升级检查来处理操作。高风险未知操作需要明确授权，无法联系主服务时拒绝执行。",
+          "why": "当 Agent 控制电机或设备时，错误调用会产生物理影响。安全检查发生在动作执行之前尤为关键。",
+          "limitations": "文章展示的是厂商受控演示，不能视作独立验证或真实安全事故。低风险未知操作可能在检查期间继续执行，不能把所有路径都称为先审后执行。",
+          "points": [
+            "本地规则处理明确允许与阻止的操作。",
+            "高风险未知操作等待批准，失联时默认拒绝。",
+            "应继续验证延迟、误报率和策略绕过风险。"
+          ],
+          "tags": [
+            "Agent Security",
+            "Runtime Enforcement",
+            "Physical AI"
+          ],
+          "links": [
+            {
+              "label": "阅读 Cisco 技术文章",
+              "url": "https://blogs.cisco.com/ai/agents-at-the-edge-extending-ai-security-governance-to-physical-ai-with-defenseclaw"
+            }
+          ]
+        },
+        {
+          "id": "anthropic-singapore",
+          "title": "Anthropic 与新加坡签署 AI 安全合作备忘录",
+          "category": "政策",
+          "source": "Anthropic",
+          "publishedDate": "2026-10-14",
+          "importance": 4,
+          "evidence": "已核验一手来源",
+          "summary": "Anthropic 宣布与新加坡数字发展及信息部签署合作备忘录，涉及 AI 安全、模型评估、采用研究与负责任部署，并计划就测试标准和事件响应开展技术交流。",
+          "why": "跨机构技术交流可能推动评测方法共享；后续应关注是否产生公开测试协议、研究成果和可比较的结果。",
+          "limitations": "合作备忘录代表合作方向，不代表新标准已经实施；公告未给出新的公开 benchmark 结果。",
+          "points": [
+            "合作涉及安全、模型评估与负责任采用。",
+            "计划交流测试标准及事件响应方法。"
+          ],
+          "tags": [
+            "AI Governance",
+            "Model Evaluation"
+          ],
+          "links": [
+            {
+              "label": "阅读 Anthropic 公告",
+              "url": "https://www.anthropic.com/news/singapore-office-opening"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "安全评测走向隔离、监督与问责",
+      "intro": "原对话简报归档：关注前沿 AI 的隔离措施、国际安全合作与独立评测透明度。以下保留原简报观点，未在本次逐项重新核验。",
+      "window": "2026-10-13 09:55 — 2026-10-14 09:55（北京时间；由原简报时区换算）",
+      "note": "本期由原 ChatGPT 简报迁移，标记为历史归档。事实与日期请结合原文复核；不作为今天的新进展。",
+      "articles": [
+        {
+          "id": "security-letter",
+          "title": "科学界呼吁加强前沿 AI 隔离与国际监督",
+          "category": "研究",
+          "source": "AI Security Letter",
+          "publishedDate": "2026-10-13",
+          "importance": 5,
+          "evidence": "原简报归档",
+          "summary": "原简报介绍一封科学界公开信，倡议加强高能力模型的执行环境隔离，建立国际监督机制，并推动隔离失效事件报告。",
+          "why": "模型行为安全与执行环境安全需要同时考虑。",
+          "limitations": "倡议目标不代表机构已经成立。本条来自历史简报，本次未重新核验签署人数与日期。",
+          "points": [
+            "加强执行环境隔离。",
+            "推动安全事件报告及独立监督。"
+          ],
+          "tags": [
+            "Containment",
+            "AI Control"
+          ],
+          "links": [
+            {
+              "label": "公开信原始来源",
+              "url": "https://ai-security-letter.org/"
+            }
+          ]
+        },
+        {
+          "id": "uk-canada",
+          "title": "英国与加拿大加强 AI 安全合作",
+          "category": "政策",
+          "source": "英国政府",
+          "publishedDate": "2026-10-13",
+          "importance": 4,
+          "evidence": "原简报归档",
+          "summary": "原简报记录两国在前沿 AI 评估、安全信息和标准方面加强合作，强调研究机构之间的方法交流。",
+          "why": "共享测试方法有助于不同机构比较安全评测结果。",
+          "limitations": "合作公告不能替代具体测试成果；本次未重新核验该历史条目。",
+          "points": [
+            "关注后续评测方法和技术标准的公开成果。"
+          ],
+          "tags": [
+            "AI Policy",
+            "Evaluation"
+          ],
+          "links": [
+            {
+              "label": "原简报引用的政府公告",
+              "url": "https://www.gov.uk/government/news/uk-canada-renewed-ai-security-partnership"
+            }
+          ]
+        },
+        {
+          "id": "independent-evaluation",
+          "title": "独立安全评测：谁决定哪些结果可以公开？",
+          "category": "政策",
+          "source": "Reuters（原简报引用）",
+          "publishedDate": "2026-10-13",
+          "importance": 4,
+          "evidence": "原简报归档",
+          "summary": "原简报引用一篇媒体调查，讨论外部评测的资料访问、测试自主权、发布条件与商业保密之间的张力。",
+          "why": "独立评测的可信度同时取决于数据访问、测试方法与发布自主权。",
+          "limitations": "这是历史媒体报道归档，部分细节据称来自知情人士；本次未重新核验，不应据此推断企业操纵结果。",
+          "points": [
+            "区分研究独立性与商业机密保护。",
+            "关注是否公开合同、方法与关键评测结果。"
+          ],
+          "tags": [
+            "Independent Evaluation",
+            "Auditability"
+          ],
+          "links": [
+            {
+              "label": "原简报引用的 Reuters 报道",
+              "url": "https://www.reuters.com/world/behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "schedule": {
+    "time": "09:00",
+    "verified": false,
+    "mode": "feeds",
+    "timezone": "Asia/Shanghai",
+    "enabled": true
+  }
+}
