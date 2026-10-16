@@ -15,6 +15,7 @@ from email.utils import parsedate_to_datetime
 from urllib.parse import urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
+from topics import TOPICS, TOPIC_LIMIT, TOPIC_LABELS, classify, migrate_topics
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'public/data/briefs.json'
@@ -27,6 +28,9 @@ SOURCES = [
     ('arXiv cs.AI', 'https://rss.arxiv.org/rss/cs.AI', '研究'),
     ('arXiv cs.CR', 'https://rss.arxiv.org/rss/cs.CR', '研究'),
     ('arXiv cs.MA', 'https://rss.arxiv.org/rss/cs.MA', '研究'),
+    ('arXiv cs.LG', 'https://rss.arxiv.org/rss/cs.LG', '研究'),
+    ('arXiv stat.ML', 'https://rss.arxiv.org/rss/stat.ML', '研究'),
+    ('arXiv cs.CL', 'https://rss.arxiv.org/rss/cs.CL', '研究'),
 ]
 TERMS = {
     'Agent': r'\bagents?\b|\bagentic\b',
@@ -91,12 +95,9 @@ def parse_feed(raw,name,category,start,end):
         description=plain(field(item,'description') or field(item,'summary') or field(item,'encoded'))
         corpus=title+' '+description
         tags=[tag for tag,pattern in TERMS.items() if re.search(pattern,corpus,re.I)]
-        ai=bool(re.search(r'\bAI\b|artificial intelligence|\bLLMs?\b|language models?|\bagents?\b|\bagentic\b|\balignment\b',corpus,re.I))
-        relevant=any(t in tags for t in ('Agent','Alignment','AI Safety','AI Security','Prompt Injection','AI Control','Red Teaming'))
-        if name.startswith('arXiv'):
-            relevant=any(t in tags for t in ('Alignment','AI Safety','AI Security','Prompt Injection','AI Control','Red Teaming'))
-        if name!='METR' and not (ai and relevant): continue
-        if not tags:tags=['AI Safety']
+        topics=classify(corpus,name)
+        if not topics: continue
+        tags=list(dict.fromkeys([*[TOPIC_LABELS[t] for t in topics], *tags]))
         # Keep the title plus excerpt short; the full source remains at the linked page.
         words=description.split();remaining=max(0,24-len(title.split()))
         excerpt=' '.join(words[:remaining])
@@ -107,7 +108,7 @@ def parse_feed(raw,name,category,start,end):
         if name.startswith('arXiv'):limitation+=' 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。'
         else:limitation+=' 厂商公告或演示不等于独立验证，也不等于真实事故。'
         results.append({'id':'feed-'+hashlib.sha256(link.encode()).hexdigest()[:16],
-            'title':title[:200],'category':category,'source':name,'publishedDate':stamp.date().isoformat(),
+            'title':title[:200],'category':category,'topics':topics,'source':name,'publishedDate':stamp.date().isoformat(),
             'importance':3,'summary':summary,'why':'仅自动整理来源，不生成研究判断。',
             'limitations':limitation,'points':[f'RSS 发布时间：{stamp.isoformat()}'],'tags':tags[:6],
             'evidence':'自动采集 · 未人工核验','links':[{'label':'阅读原始来源','url':link}],
@@ -128,24 +129,47 @@ def fetch_source(source,start,end):
             else:return [],{'name':name,'ok':False,'count':0,'error':f'{type(e).__name__}: {str(e)[:180]}'}
 
 def merge(data,articles,statuses,start,end,now):
+    migrate_topics(data)
     day=end.astimezone(SHANGHAI).date().isoformat()
     # De-duplicate all historic and current issue links, including imported briefs.
-    known={canonical(l['url']) for i in data['issues'] for a in i['articles'] for l in a['links']}
+    known={canonical(l['url']):a for i in data['issues'] for a in i['articles'] for l in a['links']}
     fresh=[]
-    for article in sorted(articles,key=lambda a:a['_published'],reverse=True):
+    for article in sorted(articles,key=lambda a:datetime.fromisoformat(a['_published']),reverse=True):
         url=article['links'][0]['url']
-        if url in known:continue
-        known.add(url);fresh.append({k:v for k,v in article.items() if k!='_published'})
+        if url in known:
+            previous=known[url]
+            previous['topics']=list(dict.fromkeys([*previous['topics'],*article['topics']]))
+            continue
+        cleaned={k:v for k,v in article.items() if k!='_published'}
+        known[url]=cleaned;fresh.append(cleaned)
     current=next((i for i in data['issues'] if i['date']==day),None)
     if current is None:
-        current={'date':day,'title':f'{day} AI Safety / Agent 自动采集',
-            'intro':'按安全与智能体关键词收录公开来源；保留原文标题与短摘要，不生成中文分析。',
+        current={'date':day,'title':f'{day} AI 研究日报',
+            'intro':'收录 Safety、Deep Learning、RL 与基座模型研究；保留原文标题与短摘要，不生成中文分析。',
             'window':f'{start.astimezone(SHANGHAI):%Y-%m-%d %H:%M} — {end.astimezone(SHANGHAI):%Y-%m-%d %H:%M}（北京时间；RSS 发布时间）',
             'note':'自动采集不等于人工核验。arXiv 以 RSS 公告时间筛选，不把它称为首次投稿时间。','articles':[], 'automatic':True}
         data['issues'].append(current)
-    capacity=max(0,30-len(current['articles']));included=fresh[:capacity]
+    # Round-robin across sections: a busy ML feed must not crowd out Safety or RL.
+    included=[];picked=set()
+    counts={topic:sum(topic in a['topics'] for a in current['articles']) for topic in TOPICS}
+    queues={topic:iter([a for a in fresh if topic in a['topics']]) for topic in TOPICS}
+    while len(current['articles'])+len(included)<TOPIC_LIMIT*len(TOPICS):
+        added=False
+        for topic in TOPICS:
+            if len(current['articles'])+len(included)>=TOPIC_LIMIT*len(TOPICS):break
+            if counts[topic]>=TOPIC_LIMIT:continue
+            candidate=next((a for a in queues[topic] if a['id'] not in picked),None)
+            if candidate is None:continue
+            included.append(candidate);picked.add(candidate['id']);added=True
+            for membership in candidate['topics']:counts[membership]+=1
+        if not added:break
+    # Keep the RSS ordering after selection; articles shared by sections appear once.
+    included=[a for a in fresh if a['id'] in picked]
     current['articles'].extend(included)
     current['updatedAt']=now.isoformat()
+    if current.get('automatic'):
+        current['title']=f'{day} AI 研究日报'
+        current['intro']='收录 Safety、Deep Learning、RL 与基座模型研究；保留原文标题与短摘要，不生成中文分析。'
     if not current.get('automatic') and '自动采集补充' not in current['note']:
         current['note']+=' 自动采集补充按每日北京时间 09:00 截止的 24 小时 RSS 公告窗口筛选，未经人工核验。'
     if not current['articles']:current['intro']='本窗口未收录到符合筛选条件的新增条目；这不代表全球没有相关进展。'
