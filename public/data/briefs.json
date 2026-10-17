@@ -1,6 +1,16 @@
 {
   "issues": [
     {
+      "date": "2026-10-17",
+      "title": "2026-10-17 AI 研究日报",
+      "intro": "本窗口未收录到符合筛选条件的新增条目；这不代表全球没有相关进展。",
+      "window": "2026-10-16 09:00 — 2026-10-17 09:00（北京时间；RSS 发布时间）",
+      "note": "自动采集不等于人工核验。arXiv 以 RSS 公告时间筛选，不把它称为首次投稿时间。",
+      "articles": [],
+      "automatic": true,
+      "updatedAt": "2026-10-17T05:16:18.640990+00:00"
+    },
+    {
       "date": "2026-10-16",
       "title": "2026-10-16 AI 研究日报",
       "intro": "收录 Safety、Deep Learning、RL 与基座模型研究；保留原文标题与短摘要，不生成中文分析。",
@@ -3613,21 +3623,21 @@
     "verified": true
   },
   "collection": {
-    "completedAt": "2026-10-16T03:45:36.602096+00:00",
-    "windowStart": "2026-10-15T09:00:00+08:00",
-    "windowEnd": "2026-10-16T09:00:00+08:00",
+    "completedAt": "2026-10-17T05:16:18.640990+00:00",
+    "windowStart": "2026-10-16T09:00:00+08:00",
+    "windowEnd": "2026-10-17T09:00:00+08:00",
     "sources": [
       {
         "name": "METR",
         "ok": true,
-        "count": 110,
+        "count": 98,
         "matched": 0,
         "missingDate": 0
       },
       {
         "name": "OpenAI",
         "ok": true,
-        "count": 1296,
+        "count": 1298,
         "matched": 0,
         "missingDate": 0
       },
@@ -3648,48 +3658,48 @@
       {
         "name": "arXiv cs.AI",
         "ok": true,
-        "count": 479,
-        "matched": 199,
+        "count": 453,
+        "matched": 0,
         "missingDate": 0
       },
       {
         "name": "arXiv cs.CR",
         "ok": true,
-        "count": 71,
-        "matched": 22,
+        "count": 0,
+        "matched": 0,
         "missingDate": 0
       },
       {
         "name": "arXiv cs.MA",
         "ok": true,
-        "count": 36,
-        "matched": 13,
+        "count": 0,
+        "matched": 0,
         "missingDate": 0
       },
       {
         "name": "arXiv cs.LG",
         "ok": true,
-        "count": 486,
-        "matched": 192,
+        "count": 0,
+        "matched": 0,
         "missingDate": 0
       },
       {
         "name": "arXiv stat.ML",
         "ok": true,
-        "count": 88,
-        "matched": 27,
+        "count": 0,
+        "matched": 0,
         "missingDate": 0
       },
       {
         "name": "arXiv cs.CL",
         "ok": true,
-        "count": 301,
-        "matched": 132,
+        "count": 0,
+        "matched": 0,
         "missingDate": 0
       }
     ],
-    "newItems": 57,
-    "omittedForLimit": 304,
+    "newItems": 0,
+    "omittedForLimit": 0,
     "mode": "rss"
   }
 }
