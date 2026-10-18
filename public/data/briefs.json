@@ -1,6 +1,16 @@
 {
   "issues": [
     {
+      "date": "2026-10-18",
+      "title": "2026-10-18 AI 研究日报",
+      "intro": "本窗口未收录到符合筛选条件的新增条目；这不代表全球没有相关进展。",
+      "window": "2026-10-17 09:00 — 2026-10-18 09:00（北京时间；RSS 发布时间）",
+      "note": "自动采集不等于人工核验。arXiv 以 RSS 公告时间筛选，不把它称为首次投稿时间。",
+      "articles": [],
+      "automatic": true,
+      "updatedAt": "2026-10-18T05:20:49.915510+00:00"
+    },
+    {
       "date": "2026-10-17",
       "title": "2026-10-17 AI 研究日报",
       "intro": "本窗口未收录到符合筛选条件的新增条目；这不代表全球没有相关进展。",
@@ -3623,9 +3633,9 @@
     "verified": true
   },
   "collection": {
-    "completedAt": "2026-10-17T05:16:18.640990+00:00",
-    "windowStart": "2026-10-16T09:00:00+08:00",
-    "windowEnd": "2026-10-17T09:00:00+08:00",
+    "completedAt": "2026-10-18T05:20:49.915510+00:00",
+    "windowStart": "2026-10-17T09:00:00+08:00",
+    "windowEnd": "2026-10-18T09:00:00+08:00",
     "sources": [
       {
         "name": "METR",
@@ -3637,7 +3647,7 @@
       {
         "name": "OpenAI",
         "ok": true,
-        "count": 1298,
+        "count": 1299,
         "matched": 0,
         "missingDate": 0
       },
@@ -3658,7 +3668,7 @@
       {
         "name": "arXiv cs.AI",
         "ok": true,
-        "count": 453,
+        "count": 0,
         "matched": 0,
         "missingDate": 0
       },
