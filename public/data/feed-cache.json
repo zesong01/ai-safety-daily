@@ -20260,5 +20260,40 @@
     ],
     "automatic": true,
     "_published": "2026-10-20T00:00:00-04:00"
+  },
+  {
+    "id": "feed-01f68db30df2c490",
+    "title": "Review of the \"Misalignment in high-stakes settings\" section in Anthropic's Risk Report (August 2026)",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "METR",
+    "publishedDate": "2026-10-20",
+    "importance": 3,
+    "summary": "原文摘要节选：Scope and access: this review was written based solely on…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 厂商公告或演示不等于独立验证，也不等于真实事故。",
+    "points": [
+      "RSS 发布时间：2026-10-20T15:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Agent",
+      "Alignment",
+      "AI Safety",
+      "AI Security"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-20T00:00:00-07:00"
   }
 ]
