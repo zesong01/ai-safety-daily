@@ -14,11 +14,23 @@ class FreshnessTests(unittest.TestCase):
         self.data = {
             'issues': [{'date': '2026-10-16', 'articles': []}],
             'collection': {'windowEnd': '2026-10-16T09:00:00+08:00',
+                           'collectorVersion': 2, 'completedAt': self.now.isoformat(),
                            'sources': [{'ok': True}, {'ok': True}]},
         }
 
     def test_published_empty_issue_is_valid(self):
         self.assertTrue(is_current(self.data, self.now))
+
+    def test_empty_issue_is_not_a_permanent_completion_marker(self):
+        self.data['collection']['completedAt'] = '2026-10-16T02:00:00+00:00'
+        self.assertFalse(is_current(self.data, self.now))
+
+    def test_old_collector_and_future_check_time_require_recovery(self):
+        self.data['collection']['collectorVersion'] = 1
+        self.assertFalse(is_current(self.data, self.now))
+        self.data['collection']['collectorVersion'] = 2
+        self.data['collection']['completedAt'] = '2026-10-16T04:00:00+00:00'
+        self.assertFalse(is_current(self.data, self.now))
 
     def test_yesterday_and_future_window_need_recovery(self):
         for date in ('2026-10-15', '2026-10-17'):

@@ -1,4 +1,4 @@
-"""Skip scheduled rebuilds only after the expected issue is publicly available."""
+"""Skip duplicate checks briefly; an empty published issue never stops polling."""
 import json
 import os
 import time
@@ -20,6 +20,8 @@ def is_current(data, now):
         collection = data['collection']
         return (
             datetime.fromisoformat(collection['windowEnd']) == expected
+            and collection.get('collectorVersion') == 2
+            and timedelta(0) <= now-datetime.fromisoformat(collection['completedAt']) < timedelta(minutes=50)
             and any(issue['date'] == expected.date().isoformat() for issue in data['issues'])
             and sum(source.get('ok') is True for source in collection['sources']) >= 2
         )

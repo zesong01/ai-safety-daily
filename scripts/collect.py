@@ -19,6 +19,8 @@ from topics import TOPICS, TOPIC_LIMIT, TOPIC_LABELS, classify, migrate_topics
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'public/data/briefs.json'
+CACHE = ROOT / 'public/data/feed-cache.json'
+COLLECTOR_VERSION = 2
 SHANGHAI = timezone(timedelta(hours=8))
 SOURCES = [
     ('METR', 'https://metr.org/feed.xml', '研究'),
@@ -81,7 +83,7 @@ def parse_feed(raw,name,category,start,end):
     root=ET.fromstring(raw)
     if root.tag.split('}')[-1] not in ('rss','RDF','feed'): raise ValueError('Response is not a feed')
     entries=[i for i in root.iter() if i.tag.split('}')[-1] in ('item','entry')]
-    results=[]; missing_date=0
+    results=[]; missing_date=0;outside_window=0;dated=[]
     for item in entries:
         title=plain(field(item,'title'));link=field(item,'link')
         if not link: link=next((c.attrib.get('href','') for c in item if c.tag.split('}')[-1]=='link' and c.attrib.get('rel','alternate')=='alternate'),'')
@@ -89,7 +91,8 @@ def parse_feed(raw,name,category,start,end):
         if not title or not link: continue
         date=date_value(field(item,'pubDate') or field(item,'published') or field(item,'date'))
         if date is None: missing_date+=1;continue
-        if not start<=date<end: continue
+        dated.append(date)
+        if not start<=date<end: outside_window+=1;continue
         # RSS announces replacements too. Do not turn paper revisions into new papers.
         if name.startswith('arXiv') and field(item,'announce_type') not in ('new','cross'): continue
         description=plain(field(item,'description') or field(item,'summary') or field(item,'encoded'))
@@ -113,7 +116,9 @@ def parse_feed(raw,name,category,start,end):
             'limitations':limitation,'points':[f'RSS 发布时间：{stamp.isoformat()}'],'tags':tags[:6],
             'evidence':'自动采集 · 未人工核验','links':[{'label':'阅读原始来源','url':link}],
             'automatic':True,'_published':date.isoformat()})
-    return results,{'name':name,'ok':True,'count':len(entries),'matched':len(results),'missingDate':missing_date}
+    return results,{'name':name,'ok':True,'count':len(entries),'matched':len(results),'missingDate':missing_date,
+        'outsideWindow':outside_window,'latestEntryAt':max(dated).isoformat() if dated else None,
+        'feedPublishedAt':field(root.find('channel'),'pubDate') if root.find('channel') is not None else None}
 
 def fetch_source(source,start,end):
     name,url,category=source
@@ -178,20 +183,67 @@ def merge(data,articles,statuses,start,end,now):
     data['collection']={'completedAt':now.isoformat(),'windowStart':start.isoformat(),'windowEnd':end.isoformat(),'sources':statuses,'newItems':len(included),'omittedForLimit':len(fresh)-len(included),'mode':'rss'}
     return data
 
+def issue_end(published):
+    """Assign [previous day 09:00, today 09:00) to today's issue."""
+    boundary=published.astimezone(SHANGHAI).replace(hour=9,minute=0,second=0,microsecond=0)
+    return boundary+timedelta(days=1) if published>=boundary else boundary
+
+
+def collect_batches(data,articles,cached,statuses,end,now):
+    """Retain the next batch and repair late arrivals in the previous seven days."""
+    candidates={}
+    for article in [*cached,*articles]:
+        stamp=datetime.fromisoformat(article['_published'])
+        if not end-timedelta(days=7)<=stamp<now:continue
+        url=canonical(article['links'][0]['url'])
+        if not url:continue
+        if url in candidates:
+            article={**article,'topics':list(dict.fromkeys([*candidates[url]['topics'],*article['topics']]))}
+        candidates[url]=article
+    groups={};pending=[]
+    for article in candidates.values():
+        boundary=issue_end(datetime.fromisoformat(article['_published']))
+        if boundary>end:pending.append(article)
+        else:groups.setdefault(boundary,[]).append(article)
+    groups.setdefault(end,[])
+    added={};omitted=0
+    for boundary,batch in sorted(groups.items()):
+        merge(data,batch,statuses,boundary-timedelta(days=1),boundary,now)
+        count=data['collection']['newItems']
+        if count:added[boundary.date().isoformat()]=count
+        omitted+=data['collection']['omittedForLimit']
+    data['collection'].update({'newItems':sum(added.values()),'addedByIssue':added,
+        'omittedForLimit':omitted,'collectorVersion':COLLECTOR_VERSION,
+        'pendingItems':len(pending),'scanStart':(end-timedelta(days=7)).isoformat(),
+        'scanEnd':now.isoformat(),'mode':'rss-with-pending-cache'})
+    data['schedule']['recheck']='hourly'
+    return data,pending
+
+
+def save_json(path,value):
+    temp=path.with_suffix('.tmp')
+    temp.write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    temp.replace(path)
+
+
 def main():
     parser=argparse.ArgumentParser();parser.add_argument('--dry-run',action='store_true');parser.add_argument('--date');args=parser.parse_args()
     now=datetime.now(timezone.utc)
     end=datetime.fromisoformat(args.date).replace(hour=9,tzinfo=SHANGHAI) if args.date else now.astimezone(SHANGHAI).replace(hour=9,minute=0,second=0,microsecond=0)
     if not args.date and end>now:end-=timedelta(days=1)
-    start=end-timedelta(days=1)
+    start=end-timedelta(days=7)
     data=json.loads(DATA.read_text(encoding='utf-8-sig'))
-    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:results=list(pool.map(lambda s:fetch_source(s,start,end),SOURCES))
+    cached=json.loads(CACHE.read_text(encoding='utf-8')) if CACHE.exists() else []
+    # Read through NOW; after-cutoff entries belong to tomorrow, not the trash.
+    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:results=list(pool.map(lambda s:fetch_source(s,start,now),SOURCES))
     articles=[a for result,_ in results for a in result];statuses=[s for _,s in results]
     print(json.dumps({'windowStart':start.isoformat(),'windowEnd':end.isoformat(),'sources':statuses},ensure_ascii=False))
     if sum(s['ok'] for s in statuses)<2:raise SystemExit('Too few sources available; preserving the last published data.')
-    merged=merge(data,articles,statuses,start,end,now)
-    print(json.dumps({'newItems':merged['collection']['newItems'],'issues':len(merged['issues']),'dryRun':args.dry_run},ensure_ascii=False))
+    merged,pending=collect_batches(data,articles,cached,statuses,end,now)
+    print(json.dumps({'newItems':merged['collection']['newItems'],'addedByIssue':merged['collection']['addedByIssue'],
+        'pendingItems':len(pending),'issues':len(merged['issues']),'dryRun':args.dry_run},ensure_ascii=False))
     if not args.dry_run:
-        temp=DATA.with_suffix('.tmp');temp.write_text(json.dumps(merged,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');temp.replace(DATA)
+        save_json(CACHE,pending)
+        save_json(DATA,merged)
 
 if __name__=='__main__':main()

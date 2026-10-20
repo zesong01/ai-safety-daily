@@ -4,8 +4,8 @@ on:
     branches: [main]
   schedule:
     - cron: '0 1 * * *'
-    # Beijing 09:17 through 18:17: recover missed triggers/failed deployments.
-    - cron: '17 1-10 * * *'
+    # Capture rolling feeds before replacement, retaining post-cutoff items for tomorrow.
+    - cron: '17 * * * *'
   workflow_dispatch:
     inputs:
       collect:
@@ -58,7 +58,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add public/data/briefs.json
+          git add public/data/briefs.json public/data/feed-cache.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update daily feed collection'
             git push
