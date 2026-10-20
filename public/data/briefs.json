@@ -2740,7 +2740,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-20T19:13:38.329888+00:00"
+      "updatedAt": "2026-10-20T22:17:37.608855+00:00"
     },
     {
       "date": "2026-10-19",
@@ -9323,7 +9323,7 @@
           ]
         }
       ],
-      "updatedAt": "2026-10-20T19:13:38.329888+00:00"
+      "updatedAt": "2026-10-20T22:17:37.608855+00:00"
     },
     {
       "date": "2026-10-14",
@@ -9430,7 +9430,7 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-10-20T19:13:38.329888+00:00",
+    "completedAt": "2026-10-20T22:17:37.608855+00:00",
     "windowStart": "2026-10-19T09:00:00+08:00",
     "windowEnd": "2026-10-20T09:00:00+08:00",
     "sources": [
@@ -9470,8 +9470,8 @@
         "count": 9,
         "matched": 2,
         "missingDate": 0,
-        "outsideWindow": 7,
-        "latestEntryAt": "2026-10-14T16:37:06+00:00",
+        "outsideWindow": 6,
+        "latestEntryAt": "2026-10-20T20:59:14+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -9542,6 +9542,6 @@
     "collectorVersion": 2,
     "pendingItems": 664,
     "scanStart": "2026-10-13T09:00:00+08:00",
-    "scanEnd": "2026-10-20T19:13:38.329888+00:00"
+    "scanEnd": "2026-10-20T22:17:37.608855+00:00"
   }
 }
