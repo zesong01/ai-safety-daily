@@ -22018,5 +22018,65 @@
     ],
     "automatic": true,
     "_published": "2026-10-21T00:00:00-04:00"
+  },
+  {
+    "id": "feed-de9db6f384cbc788",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "category": "工程",
+    "topics": [
+      "safety"
+    ],
+    "source": "OpenAI",
+    "publishedDate": "2026-10-21",
+    "importance": 3,
+    "summary": "原文摘要节选：Patch the Planet connects security researchers, maintainers, and incident responders to help address…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 厂商公告或演示不等于独立验证，也不等于真实事故。",
+    "points": [
+      "RSS 发布时间：2026-10-21T15:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Agent",
+      "AI Security"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-21T07:00:00+00:00"
+  },
+  {
+    "id": "feed-ea92da5c121ecb45",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "category": "工程",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "OpenAI",
+    "publishedDate": "2026-10-21",
+    "importance": 3,
+    "summary": "原文摘要节选：Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent,…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 厂商公告或演示不等于独立验证，也不等于真实事故。",
+    "points": [
+      "RSS 发布时间：2026-10-21T15:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://openai.com/index/building-chatgpt-ad-stack"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-21T07:00:00+00:00"
   }
 ]
