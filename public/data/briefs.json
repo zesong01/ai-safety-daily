@@ -2787,7 +2787,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-22T13:45:34.127633+00:00"
+      "updatedAt": "2026-10-22T18:30:55.265769+00:00"
     },
     {
       "date": "2026-10-21",
@@ -5636,7 +5636,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-22T13:45:34.127633+00:00"
+      "updatedAt": "2026-10-22T18:30:55.265769+00:00"
     },
     {
       "date": "2026-10-20",
@@ -15068,24 +15068,24 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-10-22T13:45:34.127633+00:00",
+    "completedAt": "2026-10-22T18:30:55.265769+00:00",
     "windowStart": "2026-10-21T09:00:00+08:00",
     "windowEnd": "2026-10-22T09:00:00+08:00",
     "sources": [
       {
         "name": "METR",
         "ok": true,
-        "count": 99,
-        "matched": 1,
+        "count": 100,
+        "matched": 2,
         "missingDate": 0,
         "outsideWindow": 97,
-        "latestEntryAt": "2026-10-20T00:00:00-07:00",
+        "latestEntryAt": "2026-10-22T00:00:00-07:00",
         "feedPublishedAt": ""
       },
       {
         "name": "OpenAI",
         "ok": true,
-        "count": 1313,
+        "count": 1314,
         "matched": 3,
         "missingDate": 0,
         "outsideWindow": 1294,
@@ -15098,8 +15098,8 @@
         "count": 100,
         "matched": 0,
         "missingDate": 0,
-        "outsideWindow": 99,
-        "latestEntryAt": "2026-10-15T16:08:03+00:00",
+        "outsideWindow": 98,
+        "latestEntryAt": "2026-10-22T14:30:24+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -15178,8 +15178,8 @@
     "mode": "rss-with-pending-cache",
     "addedByIssue": {},
     "collectorVersion": 2,
-    "pendingItems": 304,
+    "pendingItems": 305,
     "scanStart": "2026-10-15T09:00:00+08:00",
-    "scanEnd": "2026-10-22T13:45:34.127633+00:00"
+    "scanEnd": "2026-10-22T18:30:55.265769+00:00"
   }
 }
