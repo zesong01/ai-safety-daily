@@ -2840,7 +2840,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-23T18:18:23.099874+00:00"
+      "updatedAt": "2026-10-23T22:07:26.850313+00:00"
     },
     {
       "date": "2026-10-22",
@@ -5629,7 +5629,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-23T18:18:23.099874+00:00"
+      "updatedAt": "2026-10-23T22:07:26.850313+00:00"
     },
     {
       "date": "2026-10-21",
@@ -8478,7 +8478,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-23T18:18:23.099874+00:00"
+      "updatedAt": "2026-10-23T22:07:26.850313+00:00"
     },
     {
       "date": "2026-10-20",
@@ -17910,7 +17910,7 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-10-23T18:18:23.099874+00:00",
+    "completedAt": "2026-10-23T22:07:26.850313+00:00",
     "windowStart": "2026-10-22T09:00:00+08:00",
     "windowEnd": "2026-10-23T09:00:00+08:00",
     "sources": [
@@ -17927,7 +17927,7 @@
       {
         "name": "OpenAI",
         "ok": true,
-        "count": 1317,
+        "count": 1318,
         "matched": 4,
         "missingDate": 0,
         "outsideWindow": 1298,
@@ -17948,10 +17948,10 @@
         "name": "Cisco",
         "ok": true,
         "count": 9,
-        "matched": 0,
+        "matched": 1,
         "missingDate": 0,
-        "outsideWindow": 6,
-        "latestEntryAt": "2026-10-21T11:25:44+00:00",
+        "outsideWindow": 5,
+        "latestEntryAt": "2026-10-23T20:47:50+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -18020,8 +18020,8 @@
     "mode": "rss-with-pending-cache",
     "addedByIssue": {},
     "collectorVersion": 2,
-    "pendingItems": 291,
+    "pendingItems": 292,
     "scanStart": "2026-10-16T09:00:00+08:00",
-    "scanEnd": "2026-10-23T18:18:23.099874+00:00"
+    "scanEnd": "2026-10-23T22:07:26.850313+00:00"
   }
 }
