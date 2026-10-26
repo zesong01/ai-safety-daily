@@ -1,6 +1,16 @@
 {
   "issues": [
     {
+      "date": "2026-10-26",
+      "title": "2026-10-26 AI 研究日报",
+      "intro": "本窗口未收录到符合筛选条件的新增条目；这不代表全球没有相关进展。",
+      "window": "2026-10-25 09:00 — 2026-10-26 09:00（北京时间；RSS 发布时间）",
+      "note": "自动采集不等于人工核验。arXiv 以 RSS 公告时间筛选，不把它称为首次投稿时间。",
+      "articles": [],
+      "automatic": true,
+      "updatedAt": "2026-10-26T05:43:20.104744+00:00"
+    },
+    {
       "date": "2026-10-25",
       "title": "2026-10-25 AI 研究日报",
       "intro": "收录 Safety、Deep Learning、RL 与基座模型研究；保留原文标题与短摘要，不生成中文分析。",
@@ -4143,7 +4153,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-26T00:19:45.426589+00:00"
+      "updatedAt": "2026-10-26T05:43:20.104744+00:00"
     },
     {
       "date": "2026-10-23",
@@ -6985,7 +6995,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-26T00:19:45.426589+00:00"
+      "updatedAt": "2026-10-26T05:43:20.104744+00:00"
     },
     {
       "date": "2026-10-22",
@@ -9774,7 +9784,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-26T00:19:45.426589+00:00"
+      "updatedAt": "2026-10-26T05:43:20.104744+00:00"
     },
     {
       "date": "2026-10-21",
@@ -12623,7 +12633,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-26T00:19:45.426589+00:00"
+      "updatedAt": "2026-10-26T05:43:20.104744+00:00"
     },
     {
       "date": "2026-10-20",
@@ -22055,9 +22065,9 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-10-26T00:19:45.426589+00:00",
-    "windowStart": "2026-10-24T09:00:00+08:00",
-    "windowEnd": "2026-10-25T09:00:00+08:00",
+    "completedAt": "2026-10-26T05:43:20.104744+00:00",
+    "windowStart": "2026-10-25T09:00:00+08:00",
+    "windowEnd": "2026-10-26T09:00:00+08:00",
     "sources": [
       {
         "name": "METR",
@@ -22102,62 +22112,62 @@
       {
         "name": "arXiv cs.AI",
         "ok": true,
-        "count": 0,
-        "matched": 0,
+        "count": 321,
+        "matched": 146,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": null,
-        "feedPublishedAt": "Sun, 25 Oct 2026 00:00:00 -0400"
+        "latestEntryAt": "2026-10-26T00:00:00-04:00",
+        "feedPublishedAt": "Mon, 26 Oct 2026 00:00:00 -0400"
       },
       {
         "name": "arXiv cs.CR",
         "ok": true,
-        "count": 0,
-        "matched": 0,
+        "count": 57,
+        "matched": 20,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": null,
-        "feedPublishedAt": "Sun, 25 Oct 2026 00:00:00 -0400"
+        "latestEntryAt": "2026-10-26T00:00:00-04:00",
+        "feedPublishedAt": "Mon, 26 Oct 2026 00:00:00 -0400"
       },
       {
         "name": "arXiv cs.MA",
         "ok": true,
-        "count": 0,
-        "matched": 0,
+        "count": 25,
+        "matched": 9,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": null,
-        "feedPublishedAt": "Sun, 25 Oct 2026 00:00:00 -0400"
+        "latestEntryAt": "2026-10-26T00:00:00-04:00",
+        "feedPublishedAt": "Mon, 26 Oct 2026 00:00:00 -0400"
       },
       {
         "name": "arXiv cs.LG",
         "ok": true,
-        "count": 0,
-        "matched": 0,
+        "count": 321,
+        "matched": 131,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": null,
-        "feedPublishedAt": "Sun, 25 Oct 2026 00:00:00 -0400"
+        "latestEntryAt": "2026-10-26T00:00:00-04:00",
+        "feedPublishedAt": "Mon, 26 Oct 2026 00:00:00 -0400"
       },
       {
         "name": "arXiv stat.ML",
         "ok": true,
-        "count": 0,
-        "matched": 0,
+        "count": 60,
+        "matched": 11,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": null,
-        "feedPublishedAt": "Sun, 25 Oct 2026 00:00:00 -0400"
+        "latestEntryAt": "2026-10-26T00:00:00-04:00",
+        "feedPublishedAt": "Mon, 26 Oct 2026 00:00:00 -0400"
       },
       {
         "name": "arXiv cs.CL",
         "ok": true,
-        "count": 0,
-        "matched": 0,
+        "count": 169,
+        "matched": 73,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": null,
-        "feedPublishedAt": "Sun, 25 Oct 2026 00:00:00 -0400"
+        "latestEntryAt": "2026-10-26T00:00:00-04:00",
+        "feedPublishedAt": "Mon, 26 Oct 2026 00:00:00 -0400"
       }
     ],
     "newItems": 0,
@@ -22165,8 +22175,8 @@
     "mode": "rss-with-pending-cache",
     "addedByIssue": {},
     "collectorVersion": 2,
-    "pendingItems": 0,
-    "scanStart": "2026-10-18T09:00:00+08:00",
-    "scanEnd": "2026-10-26T00:19:45.426589+00:00"
+    "pendingItems": 282,
+    "scanStart": "2026-10-19T09:00:00+08:00",
+    "scanEnd": "2026-10-26T05:43:20.104744+00:00"
   }
 }
