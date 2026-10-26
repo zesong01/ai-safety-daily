@@ -8606,5 +8606,36 @@
     ],
     "automatic": true,
     "_published": "2026-10-26T00:00:00-04:00"
+  },
+  {
+    "id": "feed-7d972df501d01ba1",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "category": "工程",
+    "topics": [
+      "safety"
+    ],
+    "source": "OpenAI",
+    "publishedDate": "2026-10-26",
+    "importance": 3,
+    "summary": "原文摘要节选：CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 厂商公告或演示不等于独立验证，也不等于真实事故。",
+    "points": [
+      "RSS 发布时间：2026-10-26T21:45:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Agent",
+      "AI Security"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-26T13:45:00+00:00"
   }
 ]
