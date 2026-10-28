@@ -2672,7 +2672,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-28T12:47:37.490235+00:00"
+      "updatedAt": "2026-10-28T18:50:44.560793+00:00"
     },
     {
       "date": "2026-10-27",
@@ -5337,7 +5337,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-28T12:47:37.490235+00:00"
+      "updatedAt": "2026-10-28T18:50:44.560793+00:00"
     },
     {
       "date": "2026-10-26",
@@ -9492,7 +9492,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-28T12:47:37.490235+00:00"
+      "updatedAt": "2026-10-28T18:50:44.560793+00:00"
     },
     {
       "date": "2026-10-23",
@@ -12334,7 +12334,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-28T12:47:37.490235+00:00"
+      "updatedAt": "2026-10-28T18:50:44.560793+00:00"
     },
     {
       "date": "2026-10-22",
@@ -15123,7 +15123,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-10-28T12:47:37.490235+00:00"
+      "updatedAt": "2026-10-28T18:50:44.560793+00:00"
     },
     {
       "date": "2026-10-21",
@@ -27404,7 +27404,7 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-10-28T12:47:37.490235+00:00",
+    "completedAt": "2026-10-28T18:50:44.560793+00:00",
     "windowStart": "2026-10-27T09:00:00+08:00",
     "windowEnd": "2026-10-28T09:00:00+08:00",
     "sources": [
@@ -27421,11 +27421,11 @@
       {
         "name": "OpenAI",
         "ok": true,
-        "count": 1332,
+        "count": 1333,
         "matched": 4,
         "missingDate": 0,
         "outsideWindow": 1307,
-        "latestEntryAt": "2026-10-28T09:30:00+00:00",
+        "latestEntryAt": "2026-10-28T10:00:00+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -27434,8 +27434,8 @@
         "count": 100,
         "matched": 0,
         "missingDate": 0,
-        "outsideWindow": 98,
-        "latestEntryAt": "2026-10-27T16:01:38+00:00",
+        "outsideWindow": 97,
+        "latestEntryAt": "2026-10-28T17:00:58+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -27516,6 +27516,6 @@
     "collectorVersion": 2,
     "pendingItems": 314,
     "scanStart": "2026-10-21T09:00:00+08:00",
-    "scanEnd": "2026-10-28T12:47:37.490235+00:00"
+    "scanEnd": "2026-10-28T18:50:44.560793+00:00"
   }
 }
