@@ -1,1 +1,5269 @@
-[]
+[
+  {
+    "id": "feed-7955caaf89147e7b",
+    "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
+    "category": "研究",
+    "topics": [
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35984v1 Announce Type: new Abstract: Deep learning models are highly…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35984"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-6c5e6a6d85af5893",
+    "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36146v1 Announce Type: new Abstract: Prompt optimization should improve the image a user…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36146"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-c08a0a2ef6db74bc",
+    "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36188v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on reusable skills…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36188"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-035f71ec0325679b",
+    "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36234v1 Announce Type: new Abstract: Requirements engineering (RE) is foundational to systems…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36234"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-a4362185b5f0fe58",
+    "title": "BehaveRec: When Does Long-Term Behavioral History Help Sequential Recommendation? A Study with Session, History, and Community Signals",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36239v1 Announce Type: new Abstract: Sequential recommendation…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36239"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-0ed6edd9404f35cf",
+    "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36298v1 Announce Type: new Abstract: Machine learning models deployed behind…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Deep Learning",
+      "AI Security",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36298"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-202d9ab2851e24f9",
+    "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36325v1 Announce Type: new Abstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions,…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36325"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-71cf58516c356f01",
+    "title": "How Stable Are LLM-Generated Proofs Under Program Refactoring? A Stress Test for Verifiable Code Generation",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36328v1 Announce Type: new Abstract: Benchmarks for verifiable code…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36328"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-4b87f2ecf88f8d9f",
+    "title": "Plenty of Room in the Middle: Revealing Opportunities on a GPU Cluster via Fine-Grained Monitoring",
+    "category": "研究",
+    "topics": [
+      "safety"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36329v1 Announce Type: new Abstract: GPU clusters have become…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "AI Control"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36329"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-10a0df171a06e25d",
+    "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36335v1 Announce Type: new Abstract: Large language models (LLMs) perform well across many real-world tasks but…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36335"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-8b75540f94518f9a",
+    "title": "WAKMan: Workload Aware KVCache Manager",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36355v1 Announce Type: new Abstract: Prefix caching enables a Large Language Model (LLM) servers to reuse the Key-Value (KV)…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36355"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-1cd33358fa8ed608",
+    "title": "LoRA on a Budget: Function-Aware Post-Hoc Compression for Adapter Fleets",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36386v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) has become a key mechanism for…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36386"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-123381003ba50a8e",
+    "title": "MAREval: A Multi-Agent Framework for Evaluating Natural Language Recommendation Explanations",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36389v1 Announce Type: new Abstract: Evaluating natural language explanations in recommender systems is essential…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Agent",
+      "Alignment",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36389"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-8046d94113f28424",
+    "title": "kw-bench: Breaking Frontier Harnesses on Real-World Tasks",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36405v1 Announce Type: new Abstract: Each new generation of frontier model pushes the edge of what is…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36405"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-1a620ff45a8f4f70",
+    "title": "Verifiable Efficiency Limits of Innate LLM Planning in Sliding Puzzles",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36415v1 Announce Type: new Abstract: Tool-assisted planning success can reflect external search and verification,…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36415"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-190913b96a96b905",
+    "title": "LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin Generation in Construction",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36433v1 Announce Type: new Abstract: Construction safety management still struggles to…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Agent",
+      "Alignment",
+      "AI Safety",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36433"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-667b9e11ff372092",
+    "title": "Your Agent Acts Differently When You're Around: How User Presence Changes Agent Behavior in Negotiation",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36435v1 Announce Type: new Abstract: LLM agents increasingly interact…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Agent",
+      "Alignment",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36435"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-2cdfb775b2ea4869",
+    "title": "From Solver Trajectories to Teaching Trajectories: Cognition-Aligned Reasoning Distillation",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36445v1 Announce Type: new Abstract: Knowledge distillation from large reasoning models (LRMs) often uses raw…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "RL",
+      "基座模型研究",
+      "Alignment"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36445"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-1d36b8cffa54f706",
+    "title": "A Heart Means Recursion: Exploring Visual Meaning and Communication in VLMs",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36449v1 Announce Type: new Abstract: Do vision-language models (VLMs) share our ability to…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36449"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-d329f44d35f8e89d",
+    "title": "Correction or Manipulation? Measuring Epistemic Vigilance in LLM Agents Under User Pressure",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36453v1 Announce Type: new Abstract: LLM agents that answer questions and act…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36453"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-243077946363d39c",
+    "title": "When to Intervene? An Empirical Study of Errors and Self-Recovery in LLM Agents",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36471v1 Announce Type: new Abstract: LLM agents interact with Web services…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36471"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-5f3dc98e7cb7ecb8",
+    "title": "CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36484v1 Announce Type: new Abstract: Claims about the cognitive capabilities of large language models are typically…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36484"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-26b3e231b17f579a",
+    "title": "MedConstBench: Benchmarking How Constitutions Steer LLMs in Medical Ethics",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36513v1 Announce Type: new Abstract: As large language models advance rapidly, they are increasingly used…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36513"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-c2610925d0b84fa9",
+    "title": "ATEMPO: Amortized Transfer Entropy Model Per-lag Over-Time",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36536v1 Announce Type: new Abstract: When one time series informs another, the delay at which that information…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36536"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-583519ff11ee292e",
+    "title": "Monitor Accuracy Isn't the Answer: A Decision-Value Framework for Evaluating AI Agent Restart Monitors",
+    "category": "研究",
+    "topics": [
+      "safety"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36544v1 Announce Type: new Abstract: Classification accuracy and true-positive and…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Agent",
+      "AI Control"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36544"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-b122ee2a8d45ef3c",
+    "title": "ADTGuard: Adaptive Depth-Time Safeguard for Streaming Inference in Large Language Models",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36574v1 Announce Type: new Abstract: Large Language Models (LLMs) can generate fluent responses…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "AI Safety"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36574"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-ef598a94a45241da",
+    "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?",
+    "category": "研究",
+    "topics": [
+      "rl"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36589v1 Announce Type: new Abstract: Coding agents are beginning to develop the…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36589"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-334e0e749951ea94",
+    "title": "Learning to Formalize: Bridging Open-Ended Workloads and Fast Decision Models",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36595v1 Announce Type: new Abstract: Decision models offer fast choices over sup- plied alternatives,…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36595"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-704febc84f20bda5",
+    "title": "God Does Not Play Dice: Enforcing Batch Invariance in Agentic Kernel Generation",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36623v1 Announce Type: new Abstract: Large language model (LLM) serving systems dynamically…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36623"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-4fa7628f31ddd8a3",
+    "title": "Remembering Is Not Enough: Refining Memories and Learning When to Use Them in Multi-Agent Systems",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36652v1 Announce Type: new Abstract: Memory helps LLM-based multi-agent…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36652"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-3632756593fbf18d",
+    "title": "Beyond the Evidence Coherence Trap: Agent-Driven Evidence Selection for Temporally Disordered Fake News Detection",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36764v1 Announce Type: new Abstract: Fake news undermines public trust…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36764"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-ca4a5eb96ecf444d",
+    "title": "Can LLMs Reliably Grade Olympiad Proofs? A Study of Mathematical Verification with LLMs",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36767v1 Announce Type: new Abstract: Large Language Models (LLMs) have made…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36767"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-c2d844fd820c4c2b",
+    "title": "Dependency Graphs of Mathematical Arguments: Representation, Structural Measurement, and Proof Review",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36776v1 Announce Type: new Abstract: We propose a source-grounded framework for representing and…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36776"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-a96b4759c45d8130",
+    "title": "Who Knows What - and What Does It Support? Perspective-Bounded Evidence Calibration for Multimodal Theory of Mind",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36824v1 Announce Type: new Abstract: Theory of…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Agent",
+      "Alignment",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36824"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-f8637c0894e11d19",
+    "title": "When the Critic Falls Behind: Co-Evolving Rubrics and Harnesses for Continual Agent Self-Improvement",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36826v1 Announce Type: new Abstract: Autonomous agents increasingly depend on harnesses…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36826"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-2a957930710eebf4",
+    "title": "GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36877v1 Announce Type: new Abstract: Mobile GUI agents are typically fine-tuned…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36877"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-f338f757d2ad0d4d",
+    "title": "Noise Steering: Exploiting Wake Steering and Acoustic Directivity for Noise-Constrained Wind Farm Control via Reinforcement Learning",
+    "category": "研究",
+    "topics": [
+      "rl"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36888v1 Announce Type: new Abstract: Existing noise mitigation…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36888"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-b1040eb773795ca5",
+    "title": "Natural Hard-Negative Mining from Positives for Instruction-Following Retrieval",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36900v1 Announce Type: new Abstract: Instruction-following information retrieval (IFIR) requires retrievers to rank documents by both…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36900"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-d0ec0c29db7e88a5",
+    "title": "Vision-Language Agents Can Learn in Their Own Latent Worlds",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36925v1 Announce Type: new Abstract: Learning from experience is essential for building the next generation…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36925"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-886054adb3d010f0",
+    "title": "Do bots feel bad? Assessing empirical evidence for functional valence in LLMs",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36962v1 Announce Type: new Abstract: Do LLMs have valenced states, i.e. states…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36962"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-a6dff87986eeaf42",
+    "title": "Proactive Memory for Event-Driven LLM Agents",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36967v1 Announce Type: new Abstract: Proactive LLM agents anticipate service opportunities from ongoing observations and accumulated history. Existing…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36967"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-fbdcf45317f2ddb1",
+    "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36980v1 Announce Type: new Abstract: Large language model (LLM) agents are extending agent-mediated commerce on…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36980"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-e9812e81eab5586b",
+    "title": "SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36991v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) systems ground large language…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36991"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-1616467b645e9b21",
+    "title": "Guided-RLVR: Guided Exploration in Reinforcement Learning with Verifiable Rewards",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37041v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has shown strong empirical…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37041"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-fcdef22da46641af",
+    "title": "OpenGray: a benchmark for evaluating the decisions of radiotherapy planning agents",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37081v1 Announce Type: new Abstract: Background and purpose: Radiotherapy planning agents based on…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37081"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-92f6ea97bfff8a9c",
+    "title": "Prospector: learning a compact graph traversal policy for scientific reasoning",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37121v1 Announce Type: new Abstract: Scientific reasoning in specialized engineering fields depends on knowledge…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37121"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-dd0575522a340479",
+    "title": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37161v1 Announce Type: new Abstract: Scaling supervised training for working agents requires diverse…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37161"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-9aec406b5995d439",
+    "title": "GraphRAGProv: GraphRAG Meets How-Provenance",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37237v1 Announce Type: new Abstract: GraphRAG systems often use knowledge graphs to retrieve relevant context for an LLM that produces…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37237"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-fd3eea9707995ecf",
+    "title": "Grounding LLM Agents in Business Processes: Process-Aware Knowledge Graphs for Reliable Multi-Step Service Invocation",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37242v1 Announce Type: new Abstract: Large language model (LLM) agents…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37242"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-c7131f4427df0079",
+    "title": "RPSD: Retrieval-Privileged On-Policy Self-Distillation with Optimal Transport",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37281v1 Announce Type: new Abstract: Sequential recommendation predicts a user's next interaction from historical behavior. Recent LLM-based…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37281"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-7a9452e39b8af4a6",
+    "title": "ReForest: Interpretability Meets Reasoning in Isolation Forest",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37316v1 Announce Type: new Abstract: Statistical anomaly detection methods like Isolation Forest are efficient but suffer from…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37316"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-73e9b547e81a7383",
+    "title": "Aligning Institutional Power and Operational Ability",
+    "category": "研究",
+    "topics": [
+      "safety"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37342v1 Announce Type: new Abstract: To be socially sustainable, Agentic AI systems require normative designs that align responsibilities…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Agent",
+      "Alignment"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37342"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-46651376c66c8145",
+    "title": "Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37369v1 Announce Type: new Abstract: Large language models (LLMs) are usually evaluated by…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Deep Learning",
+      "基座模型研究",
+      "AI Safety",
+      "AI Security"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37369"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-4b3cffa7806de0c6",
+    "title": "Clearing the FoG: Training KG Agents to Retrieve the Evidence Behind Their Answers",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37405v1 Announce Type: new Abstract: Large language models (LLMs) can answer…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37405"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-aad08e4de914d167",
+    "title": "Concordat: Typed Sessions for LLM Agents",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37461v1 Announce Type: new Abstract: Agents built on large language models are increasingly allowed to take consequential actions:…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37461"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-a9466646661807b3",
+    "title": "TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information",
+    "category": "研究",
+    "topics": [
+      "rl"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37571v1 Announce Type: new Abstract: Many real-world decisions require teams to integrate…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37571"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-c67dec328ad2601d",
+    "title": "Timestral",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37585v1 Announce Type: new Abstract: We introduce Timestral, a family of four time series foundation models for probabilistic forecasting, with 5M, 28M, 123M,…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37585"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-6db59b8a686567fc",
+    "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37624v1 Announce Type: new Abstract: When an LLM group's discussion is compressed into…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37624"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-b0365f12d87e1bf7",
+    "title": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37631v1 Announce Type: new Abstract: Language models pretrained on web corpora collected over multiple…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37631"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-8d72c023977d22df",
+    "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37655v1 Announce Type: new Abstract: Atmospheric chemical mechanisms are commonly distributed in the…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37655"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-da95cf129c019dd7",
+    "title": "ASTROLABE: A 3D Particle-Level Surrogate for Cosmology Simulation with Physical Flow Matching",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.27068v1 Announce Type: cross Abstract: The microphysics of dark matter (DM) is…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.27068"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-8d6cfe3592ac650b",
+    "title": "Task-Utility IQA: Rethinking Image Quality Assessment in Embodied Tasks",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35905v1 Announce Type: cross Abstract: Image quality assessment (IQA) underpins embodied imaging pipelines by judging…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35905"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-8cad0aa57b2319a5",
+    "title": "Physiognomy Revisited: How Vision-Language Models Encode Sensitive Attributes Through Image Transformation",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35910v1 Announce Type: cross Abstract: Emergent generative AI technologies, while remarkably beneficial across…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35910"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-33e2230256ee029e",
+    "title": "ReCoPII: A Relation-Grounded Framework for Building Contextual PII Masking Datasets",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35925v1 Announce Type: cross Abstract: Training contextual masking systems for personally identifiable information (PII)…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35925"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-febe9b080d72f277",
+    "title": "SCOPE: Source Credibility and Outlet Profiling Engine",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35929v1 Announce Type: cross Abstract: We present SCOPE, a multi-agent system for profiling news media outlets with…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35929"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-048818369dde37b3",
+    "title": "Who Convinced Whom? Tracing How LLMs Change Their Minds in Multi-Agent Systems",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35930v1 Announce Type: cross Abstract: Multi-agent debate (MAD) aims to improve language-model…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Agent",
+      "AI Safety",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35930"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-74c303c90da7ba2b",
+    "title": "Curriculum-Driven Deep Reinforcement Learning for Autonomous Far-Range Rocket Landing",
+    "category": "研究",
+    "topics": [
+      "rl"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35954v1 Announce Type: cross Abstract: Autonomous vertical landing of reusable launch vehicles is a critical…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35954"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-c7221d8792126a94",
+    "title": "ResCom: Activation Residual Compensation for Large Language Model Quantization",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35955v1 Announce Type: cross Abstract: Low-bit weight--activation quantization reduces the memory and computation needed to…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35955"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-1d0ac5c7a1334dfc",
+    "title": "Structured Time-Frequency Representation for Channel Prediction",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35956v1 Announce Type: cross Abstract: Accurate CSI forecasting is essential for mitigating channel aging and supporting reliable downlink…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35956"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-c1a77f0147612e71",
+    "title": "EMMA: Structured Episodic Memory for Multi-Agent Workflow Synthesis",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35966v1 Announce Type: cross Abstract: Deploying LLM agents in specialized domains often require fine-grained task-specific procedures…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35966"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-1ae6c58f79aa0bf1",
+    "title": "Multiple Leak Localization in Water Distribution Networks through Graph Neural Networks",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35972v1 Announce Type: cross Abstract: Leak localization in water distribution networks is challenging…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Deep Learning",
+      "Evaluation",
+      "AI Control"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35972"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-c2676d0593b26f31",
+    "title": "UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35980v1 Announce Type: cross Abstract: Game development stresses coding agents in ways general software…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35980"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-bed559d014ca99b6",
+    "title": "Generation and Verification: Human-Agent Collaboration for Safety-Critical Automotive Software Engineering",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35982v1 Announce Type: cross Abstract: Research on coding agents mainly focuses on generation quality.…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Agent",
+      "AI Safety"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35982"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-185c2e95af99730f",
+    "title": "Let the Gate Decide: Per-Lookup Precision for Quantized Conditional Memory in LLMs",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35985v1 Announce Type: cross Abstract: Conditional memory layers, such as DeepSeek's Engram,…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35985"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-f444f34121adaeaa",
+    "title": "PROBE: Frontier Coding Agents Find Different Bugs Than Maintainers Fix",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35987v1 Announce Type: cross Abstract: Proactive bug discovery is an important software-engineering problem. Even…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35987"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-0a052fb5fc879124",
+    "title": "Pricing Cross-Bank Context in Federated Anti-Money Laundering",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35996v1 Announce Type: cross Abstract: Most graph-based Anti-Money Laundering (AML) methods assume access to a pooled transaction…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35996"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-a84b709b8d9cff5c",
+    "title": "PolicyMediator: Multi-Regional Policy Learning through Mediation Agents with Evolving Skills in OPC Ecosystems",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.35997v1 Announce Type: cross Abstract: One-person companies (OPCs) are emerging enterprises…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.35997"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-1b80831f56690d43",
+    "title": "MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36006v1 Announce Type: cross Abstract: System One decision models such as Jev answer structured questions in…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36006"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-8dd5153935bc08d8",
+    "title": "DuplexTune: Coupled-State Replay for Memory-Efficient Mixture-of-Experts Adaptation",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36009v1 Announce Type: cross Abstract: Sparse expert execution does not remove the stored states needed to adapt…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36009"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-45d1510f3c53e935",
+    "title": "CIVER: Causal Intervention Verification for Reliable Code Review",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36010v1 Announce Type: cross Abstract: Code review is essential for maintaining software repositories by identifying defects,…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36010"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-501a60cf4d92b863",
+    "title": "Do Coding Agents Still Need a Debugger? Frontier-Model-Based Fault Localization at the Accuracy Ceiling",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36015v1 Announce Type: cross Abstract: Background: To localize a fault,…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36015"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-a0d49b24cd3e2ace",
+    "title": "How Much Does the Hint Matter? Scope Conditions for Hindsight Self-Distillation in Financial Reasoning",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36082v1 Announce Type: cross Abstract: Financial institutions operating under data-residency…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36082"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-741ed610cf272b09",
+    "title": "Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36108v1 Announce Type: cross Abstract: LLM agents increasingly access external tools…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Agent",
+      "Prompt Injection"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36108"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-a4ac5e6125e6a2c3",
+    "title": "Scaling and Renormalization in Neural Networks: An Effective Renormalization-Group Description of Grokking",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36113v1 Announce Type: cross Abstract: Grokking is a delayed transition from memorization…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36113"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-3b96d13f420bfa9b",
+    "title": "Context Is a Pipeline, Not a Window: Information Attrition in LLM Agent Harnesses",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36114v1 Announce Type: cross Abstract: LLM agents are judged by two…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Agent",
+      "AI Safety"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36114"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-42d3525a500ea56e",
+    "title": "When Connectivity Misleads: Guiding Agentic Search with Contrastive Evidence Paths",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36134v1 Announce Type: cross Abstract: Search agents can use cross-document graphs to discover sources…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36134"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-029325e8d4e6515c",
+    "title": "Physical structure as an organizing principle for universal Hamiltonian learning",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36135v1 Announce Type: cross Abstract: Density functional theory (DFT) gives the electronic structure of…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36135"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-e4ec4a6694a6fb04",
+    "title": "Beyond the Estimate: Wiener-Informed Decoding for Easier Training of Pixel-Space Flow Models",
+    "category": "研究",
+    "topics": [
+      "safety"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36192v1 Announce Type: cross Abstract: Learning velocity fields directly in pixel space…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Alignment"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36192"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-d0b21eb3f0a3ae8b",
+    "title": "Base Models Can Detect Hidden Intentions that Prompted Classifiers Miss",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36202v1 Announce Type: cross Abstract: The Persona Selection Model (PSM) posits that post-training selects…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Alignment",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36202"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-5cc7be697466e188",
+    "title": "Concorde: Geometry-Aware Link Prediction via Decoupled Energy Minimization",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36204v1 Announce Type: cross Abstract: Link prediction remains difficult in sparse graphs, where diffusion heuristics lack…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Deep Learning",
+      "Alignment",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36204"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-1d8cb6dd80234c09",
+    "title": "Structure, Not Sequence: Tracking and Validating Folding Mechanisms in ESMFold's Trunk with Sparse Autoencoders",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36226v1 Announce Type: cross Abstract: Structure predictors like ESMFold fold…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36226"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-357ab88ccffe6d0e",
+    "title": "Directional Statistics on Circles and Spheres: A New Angle on Data",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36227v1 Announce Type: cross Abstract: Two compass bearings near north can have an…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36227"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-27561db1408de83b",
+    "title": "Freeze, Don't Clone: Fine-Tuning with Expressive Policies Without Retaining Offline Data",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36247v1 Announce Type: cross Abstract: Offline-to-online reinforcement learning uses offline pretraining to accelerate…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36247"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-57597b417907a897",
+    "title": "BUSTA: Teaching Small Language Models to Reason About Binary Execution",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36288v1 Announce Type: cross Abstract: Large Language Models (LLM) are increasingly applied to Reverse…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36288"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-1e4d0ee25f1d8c78",
+    "title": "Detecting and Mitigating Query-Based System Prompt Leakage Attacks",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36295v1 Announce Type: cross Abstract: Large Language Models (LLMs) rely on proprietary system prompts to enforce…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "AI Safety"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36295"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-7f0fd6dcc445cfe9",
+    "title": "CrowdCC: Jointly Benchmarking Corruption Robustness and Deployment Quantization in Crowd Counting",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36340v1 Announce Type: cross Abstract: Crowd-counting models deployed on edge devices face two…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36340"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-62dece994589c052",
+    "title": "Enhancing Clinical Classifier Robustness with Deep Representation Learning Based OOD Detection on DNA Methylation Data",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36344v1 Announce Type: cross Abstract: DNA methylation (DNAM) array-based…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36344"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-4814e81396e53fad",
+    "title": "Reliability-Aware Short-Term Glycemic Risk Prediction Using an Anchor-Based Comparative Framework of Sequence, Multimodal, and State-Updating Digital-Twin Models",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36363v1 Announce Type: cross Abstract: Anticipating short-term…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36363"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-4ad7c3640bcdc45c",
+    "title": "HIDRA: Hierarchical Dual-Routing Attention for Replay-Free Lifelong Imitation Learning",
+    "category": "研究",
+    "topics": [
+      "safety"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36374v1 Announce Type: cross Abstract: Robotic agents operating in real-world environments must adapt continuously from…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Agent",
+      "Alignment",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36374"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-0efe007d34b786a8",
+    "title": "SOMA: A Benchmark for Fine-Grained Egocentric Behavior and Body-Motion Understanding",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36384v1 Announce Type: cross Abstract: Perceiving human body motion is critical for multimodal systems…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36384"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-816eebb0cea62671",
+    "title": "Expert lithological labels do not improve learning when used to predict marine sediment properties",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36410v1 Announce Type: cross Abstract: Scientific drilling has produced large…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36410"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-c4d1cc4778be500b",
+    "title": "Repulsive Population Policy Gradients for Behaviorally Diverse Reinforcement Learning",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36425v1 Announce Type: cross Abstract: The goal of Quality-Diversity Reinforcement Learning (QD-RL) is to find…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36425"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-898b66c147311eec",
+    "title": "Proposing Better Rollouts for On-Policy Distillation",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36477v1 Announce Type: cross Abstract: On-policy distillation (OPD) improves language-model post-training by letting the student learn from its…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36477"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-bf67d10004e90100",
+    "title": "ProCerDCL: Query-Efficient Black-Box Probabilistic Verification of Deep Learning Compiler Optimization",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36499v1 Announce Type: cross Abstract: We present \\tool, a query-efficient framework for black-box probabilistic…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36499"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-9b37a0eba72ea3b0",
+    "title": "Do AI Scientists Know What's New?",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36511v1 Announce Type: cross Abstract: A major challenge facing AI scientific discovery pipelines is how to determine when…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36511"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-264baa27287b5fe4",
+    "title": "RoboAuto: Autonomous Robot Program Search through Multi-Level Physical Understanding",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36533v1 Announce Type: cross Abstract: Recently, LLM-based autonomous agents have shown strong capabilities in iteratively…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36533"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-d710aa498062b4f6",
+    "title": "FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36545v1 Announce Type: cross Abstract: Unified conditional image generation requires a single model…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36545"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-8fd4ca2be1e9ab00",
+    "title": "REACH: An RL-based Hierarchical Humanoid Crawling Framework for Adaptable Confined Space Traversal",
+    "category": "研究",
+    "topics": [
+      "rl"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36546v1 Announce Type: cross Abstract: Humanoid locomotion in confined spaces requires continuous…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36546"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-33496cdbcb4af9cd",
+    "title": "NextEval: An Agent-Based Solver and Benchmark for Derivative-Free Optimization",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36553v1 Announce Type: cross Abstract: Derivative-free optimization (DFO) addresses problems where derivatives are unavailable or…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36553"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-182dda83b4032b88",
+    "title": "Less is more: learning what to profile for GPU kernel optimization",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36576v1 Announce Type: cross Abstract: Large language models have recently shown strong potential…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36576"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-db4d2755d399a796",
+    "title": "MM-Net: A Multimodal Multi-Task Network for Sleep Staging and Sleep Apnea Assessment After Ischemic Stroke",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36583v1 Announce Type: cross Abstract: Automated polysomnography after ischemic…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Alignment",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36583"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-3264b0e02f9a1bec",
+    "title": "Benchmarking LLM Agents for Behaviorally Adequate Test Generation from Software Requirements",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36584v1 Announce Type: cross Abstract: As large language model agents increasingly compile natural-language…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Agent",
+      "Alignment",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36584"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-a29603fa393800df",
+    "title": "Balanced State Subspaces for Mamba-2 State Compression",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36617v1 Announce Type: cross Abstract: Mamba-2 compresses all context into a fixed-size recurrent state that dominates decoding…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36617"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-94e36829864ca3af",
+    "title": "Dream-COP: Guiding Algorithm Discovery for Combinatorial Optimization Problems in an Experience World",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36618v1 Announce Type: cross Abstract: Large language models (LLMs) enable algorithm discovery…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36618"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-1b713de1b5220841",
+    "title": "Adapting Video Models for Robot Control via Motion-guided Asymmetric Prediction",
+    "category": "研究",
+    "topics": [
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36624v1 Announce Type: cross Abstract: World Action Models (WAMs) leverage pretrained video generative models…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36624"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-fb273174ecc83837",
+    "title": "A Quantitative Approach to Asch Conformity in Frontier Large Language Models",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36668v1 Announce Type: cross Abstract: The Asch conformity experiment has recently gained considerable…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36668"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-eaf5537ff4da4da9",
+    "title": "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+    "category": "研究",
+    "topics": [
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36671v1 Announce Type: cross Abstract: Diffusion vision-language models (DVLMs) process their entire input…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36671"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-9741e28a009e0ba9",
+    "title": "Conservative Dueling Bandits: Preference Learning under Baseline Constraints",
+    "category": "研究",
+    "topics": [
+      "safety"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36708v1 Announce Type: cross Abstract: Contextual dueling bandits learn from pairwise comparisons, the same feedback used…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "AI Safety"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36708"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-c4a35fef1278ef6c",
+    "title": "Generative Refinement Learning for Temporal Interpolation in Scientific Machine Learning",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36751v1 Announce Type: cross Abstract: Computationally expensive simulations and real-world observations often provide data…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36751"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-3b655ee7f718f5d4",
+    "title": "Robust LLM Data Selection via Content-Invariant Gradient Attribution",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36755v1 Announce Type: cross Abstract: Gradient-based data attribution has become an important tool for high-quality data…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36755"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-26d1b2ca40235dc7",
+    "title": "The Vocabulary Is Already Here: Adapting Pretrained Interpretable Features for Generative Recommendation",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36763v1 Announce Type: cross Abstract: Generative recommendation (GR) predicts the next item…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36763"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-521f1bcfef8201ab",
+    "title": "Select-TTT: Query-Conditioned Selective Fast Weight Updates for In-Place Test-Time Training",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36794v1 Announce Type: cross Abstract: Test-time training (TTT) enables a deployed language model to…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36794"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-0441f71df03003e1",
+    "title": "An Algebra of Transformers",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36795v1 Announce Type: cross Abstract: On the theoretic analyses on transforms, they mainly focus on the computability analysis, such the…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36795"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-3b515dcc06d24180",
+    "title": "SetGRPO: Calibrating Grader-Induced Policy Optimization",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36807v1 Announce Type: cross Abstract: Rubric-based reinforcement learning uses fine-grained grader feedback to train large language models on open-ended…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36807"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-b69a9401699cde33",
+    "title": "TAPESTRY: A Single Backbone for Video Generation and Robot Control",
+    "category": "研究",
+    "topics": [
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36823v1 Announce Type: cross Abstract: Pretrained video generation models encode rich priors about physical…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36823"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-1b32b76055351a4f",
+    "title": "When All Rollouts Fail: Policy-Compatible Joint Decoding for Hard-Problem Reasoning",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36849v1 Announce Type: cross Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) derives its learning…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36849"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-cf637ebda720ba1f",
+    "title": "ActiveAlign: Aligning Egocentric Manipulation via Active Perception",
+    "category": "研究",
+    "topics": [
+      "safety"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36859v1 Announce Type: cross Abstract: Real-to-Sim-to-Real (Real2Sim2Real) enables structured world representations for planning, interpretability, and safe execution.…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Alignment"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36859"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-f2008e0d51459125",
+    "title": "Developing a Speech Language Model for Basque",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36911v1 Announce Type: cross Abstract: Although the recent development of LLMs has paved the way for multi-modal…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36911"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-34837327fe683736",
+    "title": "Beyond QASecClaw: Agent Scaling, Verifier Feedback, and Evidence Reliability in Software Assurance",
+    "category": "研究",
+    "topics": [
+      "safety"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36947v1 Announce Type: cross Abstract: Can additional specialist language-model contexts improve software…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Agent",
+      "AI Safety",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36947"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-195defc4fda15e7e",
+    "title": "Self-Keyed In-Parameter Memorization for External Memory-Free Dialogue Recall in Frozen Language Models",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36948v1 Announce Type: cross Abstract: A large language model maintains conversational content…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36948"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-8b47dcc89eabe079",
+    "title": "Dense Representation Learning and Differentiable Shape Modeling for Spine Landmark Detection",
+    "category": "研究",
+    "topics": [
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36951v1 Announce Type: cross Abstract: Spine landmark detection from spinal X-ray is a…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36951"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-0cd82f703e38d4df",
+    "title": "PailitaoMMSearch2.0 Technical Report: Scaling Generative Retrieval to Unified End-to-End Multimodal Search",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36958v1 Announce Type: cross Abstract: Generative retrieval models have been increasingly adopted in…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36958"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-82d20d07a5c3d80f",
+    "title": "Advancement or Acceleration? How Data Curation Improves LLM Training",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36983v1 Announce Type: cross Abstract: While data curation is widely credited with improving large language…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36983"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-fccceb6de744bb2c",
+    "title": "LearnPrunerV2: Learnable Progressive Token Pruning for Vision-Language Models",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.36986v1 Announce Type: cross Abstract: Vision-Language Models (VLMs) have demonstrated remarkable multimodal capabilities but suffer from…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.36986"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-b8ddb7732d95525f",
+    "title": "V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37019v1 Announce Type: cross Abstract: Embedding-level scaling expands the capacity of language models through…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37019"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-9a060928d216f27a",
+    "title": "Interpretable Deep Learning Models for Breast Cancer Diagnosis Using Medical Imaging",
+    "category": "研究",
+    "topics": [
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37026v1 Announce Type: cross Abstract: Deep learning shows promise for breast cancer diagnosis,…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "基座模型研究",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37026"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-011638e46489f0f9",
+    "title": "Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37037v1 Announce Type: cross Abstract: Multimodal perception forms the foundation…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37037"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-93ab52294b943d87",
+    "title": "Blindfold: Keeping the Audit Coin Secret from LLM Agents",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37055v1 Announce Type: cross Abstract: Audit-based certification bounds the violation rate of an LLM agent…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37055"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-b1fc8c358d737f0a",
+    "title": "Exploring the Limits of the Delta Learning Hypothesis: Single-Pair Generator Biases in Direct Preference Optimization",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37058v1 Announce Type: cross Abstract: Direct Preference Optimization (DPO)…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37058"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-5747ea5575f754da",
+    "title": "Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37093v1 Announce Type: cross Abstract: Visual perception is evolving from passive recognition toward…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37093"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-5701f0b837263e00",
+    "title": "Hardware-Matched Spiking Neural Networks for Real-Time Purkinje Cell Spike Classification",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37104v1 Announce Type: cross Abstract: Distinguishing Purkinje cell (PC) simple spikes (SSs) from complex…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37104"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-cd22ed7bb4a8abb0",
+    "title": "A First-Step Bias Restores Lost Diversity in Diffusion Model Distillation",
+    "category": "研究",
+    "topics": [
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37110v1 Announce Type: cross Abstract: Distribution-matching distillation enables high-quality image generation in only a…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37110"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-6b81612bd0c0e26b",
+    "title": "MRI-to-CT Translation of Spinal Images via Anatomy-Guided Pseudo-Pairing and Adversarial Diffusion",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37134v1 Announce Type: cross Abstract: Magnetic Resonance Imaging (MRI) is routinely used to…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Deep Learning",
+      "Alignment"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37134"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-178aa7c1e9990661",
+    "title": "What the Primary Lund Plane Omits: A Model-Stitching Diagnosis of a Jet-Tagger Representation Gap",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37137v1 Announce Type: cross Abstract: Lund-plane and Particle Transformer (ParT)…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37137"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-fa89ed636c6334e4",
+    "title": "Generative Replay for Equilibrium Propagation: Toward Edge-Friendly Continual Learning in Hopfield Networks",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37139v1 Announce Type: cross Abstract: Equilibrium Propagation (EqProp) offers a biologically grounded…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37139"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-b1441d81241f8f10",
+    "title": "GCSR-OCC: Geometry Calibration and Semantic Routing for Open-Vocabulary Occupancy Prediction",
+    "category": "研究",
+    "topics": [
+      "safety"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37149v1 Announce Type: cross Abstract: Open-vocabulary 3D occupancy prediction represents scene geometry and semantics…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Alignment"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37149"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-bbf5ef0bb01dd8f0",
+    "title": "Action-Value Calibration via Continuation Sharing for Long-Horizon Agentic Reinforcement Learning",
+    "category": "研究",
+    "topics": [
+      "rl"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37195v1 Announce Type: cross Abstract: Reinforcement learning for long-horizon agents relies on feedback from…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37195"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-5f3f53b88f656226",
+    "title": "Retrieve to Act: Motion Primitive Graph Retrieval for Robust VLA Execution",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37215v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) policies demonstrate remarkable semantic generalization, yet…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37215"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-d02bdbd2ae78bdf4",
+    "title": "Aligning Large Language Models for Safety in African Languages: A Case Study of Hausa",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37245v1 Announce Type: cross Abstract: Safety alignment research for large…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Alignment",
+      "AI Safety"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37245"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-010a5341a3acc99a",
+    "title": "Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37276v1 Announce Type: cross Abstract: Large language model (LLM)-driven agent scaffold evolution improves…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37276"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-e41ecd063f4f8e8d",
+    "title": "A Lightweight Attention-Based CNN with Saliency-Map Interpretability for Skin Cancer Detection",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37314v1 Announce Type: cross Abstract: Skin cancer is among the most prevalent and…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37314"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-88f67b3894758193",
+    "title": "AnalogScout: Simulation-Efficient PVT-Aware Analog Sizing with LLM Agents",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37319v1 Announce Type: cross Abstract: Analog device sizing must satisfy all specifications across process, voltage, and…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37319"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-758021d74c344688",
+    "title": "CoS-VQ: Coordinated Shared-Scale Vector Quantization for Large Language Models",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37336v1 Announce Type: cross Abstract: Large language models (LLMs) require substantial memory, motivating low-bit weight…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37336"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-6f3eb9cf2315ee1f",
+    "title": "Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37386v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) models are bottlenecked by loading routed-expert weights from…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37386"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-a5c30533342601d3",
+    "title": "Bayes-Adaptive MDPs for Rollout Allocation to Enhance GRPO Training",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37429v1 Announce Type: cross Abstract: Group Relative Policy Optimization (GRPO) has demonstrated strong performance in…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37429"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-72d724b7d3309261",
+    "title": "FeatureArc: Benchmarking Coding Agents on Evolving Features",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37434v1 Announce Type: cross Abstract: A software feature usually evolves over time: developers extend its first version…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37434"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-be4c7baad9dc3e15",
+    "title": "Autonomous fixed-wing interception using reinforcement learning",
+    "category": "研究",
+    "topics": [
+      "deep-learning",
+      "rl"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37470v1 Announce Type: cross Abstract: Medium altitude, long endurance unmanned aerial systems such as Shahed-type strike drones are…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "RL"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37470"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-bece3dfd1c26fd93",
+    "title": "PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37471v1 Announce Type: cross Abstract: Fine-grained visual perception remains a bottleneck during post-training…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37471"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-aff31c4fee36adb6",
+    "title": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37481v1 Announce Type: cross Abstract: Fine-tuning Large Language Models (LLMs) on instruction data can…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Deep Learning",
+      "基座模型研究",
+      "Alignment",
+      "AI Safety"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37481"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-632a0fa1997df79c",
+    "title": "Strategyproof Deep Reinforcement Learning for Online Resource Allocation",
+    "category": "研究",
+    "topics": [
+      "deep-learning",
+      "rl"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37504v1 Announce Type: cross Abstract: Online resource allocation faces two coupled challenges: (1) allocating scarce resources…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "RL",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37504"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-9d63ca3565946f2c",
+    "title": "Orthogonal and Parametrized Multi-Attribute Steering of LLMs",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37517v1 Announce Type: cross Abstract: Activation steering offers an effective and efficient way to modify an LLM's…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37517"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-e86178554d183152",
+    "title": "The Structure Gap: When More Data Cannot Replace Structured Reasoning",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37523v1 Announce Type: cross Abstract: A persistent belief in modern AI is that sufficiently…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37523"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-73facd46c12aae2a",
+    "title": "Which Hand Was Late? Diagnosis for Robot Failure Recovery in Bimanual Tool Use",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37533v1 Announce Type: cross Abstract: Failure diagnosers for robot manipulation are…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37533"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-21ce853718862ecb",
+    "title": "GroundControl: Satellite-Conditioned Multi-View Diffusion for Reconstruction-Free Novel View Synthesis",
+    "category": "研究",
+    "topics": [
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37545v1 Announce Type: cross Abstract: Multi-view or video diffusion models have recently emerged as state-of-the-art…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37545"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-5a93abfa963a5721",
+    "title": "When, Where, and What to Correct: Human-Guided Adaptive Residual Correction for Robot Policies",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37547v1 Announce Type: cross Abstract: Imitation policies that reliably execute most…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37547"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-02e7f86b5f4e3971",
+    "title": "When uncertainty quantification fails: structural vulnerabilities and corrections for selective prediction under clinical class imbalance",
+    "category": "研究",
+    "topics": [
+      "safety"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37561v1 Announce Type: cross Abstract: Background. Selective prediction systems…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "AI Safety",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37561"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-9db4369fbc58022b",
+    "title": "REGER: Modeling inter-item Relations with Semantic IDs for Generative Recommendation",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37584v1 Announce Type: cross Abstract: Personalized recommendation depends on learning semantic and collaborative relations…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37584"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-119e0d4174834713",
+    "title": "GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting",
+    "category": "研究",
+    "topics": [
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37598v1 Announce Type: cross Abstract: Traffic forecasting requires modeling complex temporal dynamics and the…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37598"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-ac415bfcf1cd7400",
+    "title": "VideoLVR: Latent Visual Reasoning over Grounded Video Evidence",
+    "category": "研究",
+    "topics": [
+      "rl",
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37613v1 Announce Type: cross Abstract: Chain-of-thought reasoning has substantially advanced video understanding in multimodal large language…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL",
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37613"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-ddacaec9701998e5",
+    "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37647v1 Announce Type: cross Abstract: Weight decay and explicit weight-norm constraints improve optimizer performance in language model…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37647"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-9b8a04c573ff3eb4",
+    "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+    "category": "研究",
+    "topics": [
+      "foundation-models"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37649v1 Announce Type: cross Abstract: Scientific discovery often begins with an unexpected observation that prompts…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "基座模型研究",
+      "Agent"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37649"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-8d6f365740c57f52",
+    "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+    "category": "研究",
+    "topics": [
+      "deep-learning"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37656v1 Announce Type: cross Abstract: Relations compose through the entity they share -…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "Deep Learning"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37656"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  },
+  {
+    "id": "feed-f11c120345a76678",
+    "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+    "category": "研究",
+    "topics": [
+      "rl"
+    ],
+    "source": "arXiv cs.AI",
+    "publishedDate": "2026-10-29",
+    "importance": 3,
+    "summary": "原文摘要节选：arXiv:2610.37666v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 所示时间为 RSS 公告时间，不等于首次投稿时间；预印本不代表同行评审。",
+    "points": [
+      "RSS 发布时间：2026-10-29T12:00:00+08:00"
+    ],
+    "tags": [
+      "RL"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://arxiv.org/abs/2610.37666"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-10-29T00:00:00-04:00"
+  }
+]
