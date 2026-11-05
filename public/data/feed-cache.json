@@ -10247,5 +10247,75 @@
     ],
     "automatic": true,
     "_published": "2026-11-05T00:00:00-05:00"
+  },
+  {
+    "id": "feed-620fbb6cea55b5eb",
+    "title": "Review of the \"Risks from automated R&D\" section in Anthropic's Risk Report (August 2026)",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "foundation-models"
+    ],
+    "source": "METR",
+    "publishedDate": "2026-11-05",
+    "importance": 3,
+    "summary": "原文摘要节选：Redaction summary: As part of this assessment, Anthropic had rights…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 厂商公告或演示不等于独立验证，也不等于真实事故。",
+    "points": [
+      "RSS 发布时间：2026-11-05T16:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "基座模型研究",
+      "Alignment",
+      "AI Security",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-11-05T00:00:00-08:00"
+  },
+  {
+    "id": "feed-4a4ac6dd3283dd06",
+    "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "rl",
+      "foundation-models"
+    ],
+    "source": "METR",
+    "publishedDate": "2026-11-05",
+    "importance": 3,
+    "summary": "原文摘要节选：Redaction summary: As part of this assessment, Anthropic had rights to redact any…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 厂商公告或演示不等于独立验证，也不等于真实事故。",
+    "points": [
+      "RSS 发布时间：2026-11-05T16:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "RL",
+      "基座模型研究",
+      "Agent",
+      "AI Safety",
+      "AI Security"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-11-05T00:00:00-08:00"
   }
 ]

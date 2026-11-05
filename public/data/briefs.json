@@ -2776,7 +2776,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-05T10:48:18.248612+00:00"
+      "updatedAt": "2026-11-05T18:42:45.848349+00:00"
     },
     {
       "date": "2026-11-04",
@@ -8520,7 +8520,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-05T10:48:18.248612+00:00"
+      "updatedAt": "2026-11-05T18:42:45.848349+00:00"
     },
     {
       "date": "2026-11-02",
@@ -8560,7 +8560,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-05T10:48:18.248612+00:00"
+      "updatedAt": "2026-11-05T18:42:45.848349+00:00"
     },
     {
       "date": "2026-11-01",
@@ -15272,7 +15272,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-05T10:48:18.248612+00:00"
+      "updatedAt": "2026-11-05T18:42:45.848349+00:00"
     },
     {
       "date": "2026-10-29",
@@ -45485,18 +45485,18 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-11-05T10:48:18.248612+00:00",
+    "completedAt": "2026-11-05T18:42:45.848349+00:00",
     "windowStart": "2026-11-04T09:00:00+08:00",
     "windowEnd": "2026-11-05T09:00:00+08:00",
     "sources": [
       {
         "name": "METR",
         "ok": true,
-        "count": 100,
-        "matched": 0,
+        "count": 102,
+        "matched": 2,
         "missingDate": 0,
         "outsideWindow": 99,
-        "latestEntryAt": "2026-10-22T00:00:00-07:00",
+        "latestEntryAt": "2026-11-05T00:00:00-08:00",
         "feedPublishedAt": ""
       },
       {
@@ -45515,8 +45515,8 @@
         "count": 100,
         "matched": 0,
         "missingDate": 0,
-        "outsideWindow": 98,
-        "latestEntryAt": "2026-11-03T17:01:49+00:00",
+        "outsideWindow": 97,
+        "latestEntryAt": "2026-11-05T17:05:16+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -45595,8 +45595,8 @@
     "mode": "rss-with-pending-cache",
     "addedByIssue": {},
     "collectorVersion": 2,
-    "pendingItems": 336,
+    "pendingItems": 338,
     "scanStart": "2026-10-29T09:00:00+08:00",
-    "scanEnd": "2026-11-05T10:48:18.248612+00:00"
+    "scanEnd": "2026-11-05T18:42:45.848349+00:00"
   }
 }
