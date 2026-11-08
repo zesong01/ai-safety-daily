@@ -8,7 +8,7 @@
       "note": "自动采集不等于人工核验。arXiv 以 RSS 公告时间筛选，不把它称为首次投稿时间。",
       "articles": [],
       "automatic": true,
-      "updatedAt": "2026-11-08T02:26:19.727130+00:00"
+      "updatedAt": "2026-11-08T06:53:40.668637+00:00"
     },
     {
       "date": "2026-11-07",
@@ -5240,7 +5240,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-08T02:26:19.727130+00:00"
+      "updatedAt": "2026-11-08T06:53:40.668637+00:00"
     },
     {
       "date": "2026-11-05",
@@ -13762,7 +13762,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-08T02:26:19.727130+00:00"
+      "updatedAt": "2026-11-08T06:53:40.668637+00:00"
     },
     {
       "date": "2026-11-02",
@@ -13802,7 +13802,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-08T02:26:19.727130+00:00"
+      "updatedAt": "2026-11-08T06:53:40.668637+00:00"
     },
     {
       "date": "2026-11-01",
@@ -50727,7 +50727,7 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-11-08T02:26:19.727130+00:00",
+    "completedAt": "2026-11-08T06:53:40.668637+00:00",
     "windowStart": "2026-11-07T09:00:00+08:00",
     "windowEnd": "2026-11-08T09:00:00+08:00",
     "sources": [
@@ -50779,7 +50779,7 @@
         "missingDate": 0,
         "outsideWindow": 0,
         "latestEntryAt": null,
-        "feedPublishedAt": "Sat, 07 Nov 2026 00:00:00 -0500"
+        "feedPublishedAt": "Sun, 08 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.CR",
@@ -50789,7 +50789,7 @@
         "missingDate": 0,
         "outsideWindow": 0,
         "latestEntryAt": null,
-        "feedPublishedAt": "Sat, 07 Nov 2026 00:00:00 -0500"
+        "feedPublishedAt": "Sun, 08 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.MA",
@@ -50799,7 +50799,7 @@
         "missingDate": 0,
         "outsideWindow": 0,
         "latestEntryAt": null,
-        "feedPublishedAt": "Sat, 07 Nov 2026 00:00:00 -0500"
+        "feedPublishedAt": "Sun, 08 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.LG",
@@ -50809,7 +50809,7 @@
         "missingDate": 0,
         "outsideWindow": 0,
         "latestEntryAt": null,
-        "feedPublishedAt": "Sat, 07 Nov 2026 00:00:00 -0500"
+        "feedPublishedAt": "Sun, 08 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv stat.ML",
@@ -50819,7 +50819,7 @@
         "missingDate": 0,
         "outsideWindow": 0,
         "latestEntryAt": null,
-        "feedPublishedAt": "Sat, 07 Nov 2026 00:00:00 -0500"
+        "feedPublishedAt": "Sun, 08 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.CL",
@@ -50829,7 +50829,7 @@
         "missingDate": 0,
         "outsideWindow": 0,
         "latestEntryAt": null,
-        "feedPublishedAt": "Sat, 07 Nov 2026 00:00:00 -0500"
+        "feedPublishedAt": "Sun, 08 Nov 2026 00:00:00 -0500"
       }
     ],
     "newItems": 0,
@@ -50839,6 +50839,6 @@
     "collectorVersion": 2,
     "pendingItems": 0,
     "scanStart": "2026-11-01T09:00:00+08:00",
-    "scanEnd": "2026-11-08T02:26:19.727130+00:00"
+    "scanEnd": "2026-11-08T06:53:40.668637+00:00"
   }
 }
