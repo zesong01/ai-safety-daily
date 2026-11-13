@@ -8,7 +8,7 @@
       "note": "自动采集不等于人工核验。arXiv 以 RSS 公告时间筛选，不把它称为首次投稿时间。",
       "articles": [],
       "automatic": true,
-      "updatedAt": "2026-11-13T15:21:23.962750+00:00"
+      "updatedAt": "2026-11-13T21:57:50.184989+00:00"
     },
     {
       "date": "2026-11-12",
@@ -2815,7 +2815,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-13T15:21:23.962750+00:00"
+      "updatedAt": "2026-11-13T21:57:50.184989+00:00"
     },
     {
       "date": "2026-11-11",
@@ -8362,7 +8362,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-13T15:21:23.962750+00:00"
+      "updatedAt": "2026-11-13T21:57:50.184989+00:00"
     },
     {
       "date": "2026-11-09",
@@ -59101,7 +59101,7 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-11-13T15:21:23.962750+00:00",
+    "completedAt": "2026-11-13T21:57:50.184989+00:00",
     "windowStart": "2026-11-12T09:00:00+08:00",
     "windowEnd": "2026-11-13T09:00:00+08:00",
     "sources": [
@@ -59118,11 +59118,11 @@
       {
         "name": "OpenAI",
         "ok": true,
-        "count": 1385,
+        "count": 1386,
         "matched": 2,
         "missingDate": 0,
         "outsideWindow": 1367,
-        "latestEntryAt": "2026-11-12T20:00:00+00:00",
+        "latestEntryAt": "2026-11-13T15:00:00+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -59213,6 +59213,6 @@
     "collectorVersion": 2,
     "pendingItems": 406,
     "scanStart": "2026-11-06T09:00:00+08:00",
-    "scanEnd": "2026-11-13T15:21:23.962750+00:00"
+    "scanEnd": "2026-11-13T21:57:50.184989+00:00"
   }
 }
