@@ -2735,7 +2735,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-14T02:24:13.888212+00:00"
+      "updatedAt": "2026-11-14T07:17:41.958708+00:00"
     },
     {
       "date": "2026-11-13",
@@ -5552,7 +5552,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-14T02:24:13.888212+00:00"
+      "updatedAt": "2026-11-14T07:17:41.958708+00:00"
     },
     {
       "date": "2026-11-11",
@@ -11099,7 +11099,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-14T02:24:13.888212+00:00"
+      "updatedAt": "2026-11-14T07:17:41.958708+00:00"
     },
     {
       "date": "2026-11-09",
@@ -61838,7 +61838,7 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-11-14T02:24:13.888212+00:00",
+    "completedAt": "2026-11-14T07:17:41.958708+00:00",
     "windowStart": "2026-11-13T09:00:00+08:00",
     "windowEnd": "2026-11-14T09:00:00+08:00",
     "sources": [
@@ -61885,73 +61885,71 @@
       {
         "name": "arXiv cs.AI",
         "ok": true,
-        "count": 537,
-        "matched": 217,
+        "count": 0,
+        "matched": 0,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-13T00:00:00-05:00",
-        "feedPublishedAt": "Fri, 13 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": null,
+        "feedPublishedAt": "Sat, 14 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.CR",
         "ok": true,
-        "count": 104,
-        "matched": 29,
+        "count": 0,
+        "matched": 0,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-13T00:00:00-05:00",
-        "feedPublishedAt": "Fri, 13 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": null,
+        "feedPublishedAt": "Sat, 14 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.MA",
         "ok": true,
-        "count": 34,
-        "matched": 14,
+        "count": 0,
+        "matched": 0,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-13T00:00:00-05:00",
-        "feedPublishedAt": "Fri, 13 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": null,
+        "feedPublishedAt": "Sat, 14 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.LG",
         "ok": true,
-        "count": 611,
-        "matched": 205,
+        "count": 0,
+        "matched": 0,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-13T00:00:00-05:00",
-        "feedPublishedAt": "Fri, 13 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": null,
+        "feedPublishedAt": "Sat, 14 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv stat.ML",
         "ok": true,
-        "count": 96,
-        "matched": 17,
+        "count": 0,
+        "matched": 0,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-13T00:00:00-05:00",
-        "feedPublishedAt": "Fri, 13 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": null,
+        "feedPublishedAt": "Sat, 14 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.CL",
         "ok": true,
-        "count": 237,
-        "matched": 102,
+        "count": 0,
+        "matched": 0,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-13T00:00:00-05:00",
-        "feedPublishedAt": "Fri, 13 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": null,
+        "feedPublishedAt": "Sat, 14 Nov 2026 00:00:00 -0500"
       }
     ],
-    "newItems": 90,
-    "omittedForLimit": 318,
+    "newItems": 0,
+    "omittedForLimit": 2,
     "mode": "rss-with-pending-cache",
-    "addedByIssue": {
-      "2026-11-14": 90
-    },
+    "addedByIssue": {},
     "collectorVersion": 2,
     "pendingItems": 0,
     "scanStart": "2026-11-07T09:00:00+08:00",
-    "scanEnd": "2026-11-14T02:24:13.888212+00:00"
+    "scanEnd": "2026-11-14T07:17:41.958708+00:00"
   }
 }
