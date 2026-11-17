@@ -2587,7 +2587,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-17T03:49:07.808208+00:00"
+      "updatedAt": "2026-11-17T08:45:26.782630+00:00"
     },
     {
       "date": "2026-11-16",
@@ -8161,7 +8161,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-17T03:49:07.808208+00:00"
+      "updatedAt": "2026-11-17T08:45:26.782630+00:00"
     },
     {
       "date": "2026-11-11",
@@ -64447,7 +64447,7 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-11-17T03:49:07.808208+00:00",
+    "completedAt": "2026-11-17T08:45:26.782630+00:00",
     "windowStart": "2026-11-16T09:00:00+08:00",
     "windowEnd": "2026-11-17T09:00:00+08:00",
     "sources": [
@@ -64464,11 +64464,11 @@
       {
         "name": "OpenAI",
         "ok": true,
-        "count": 1398,
-        "matched": 2,
+        "count": 1400,
+        "matched": 3,
         "missingDate": 0,
         "outsideWindow": 1373,
-        "latestEntryAt": "2026-11-16T17:00:00+00:00",
+        "latestEntryAt": "2026-11-17T00:00:00+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -64494,73 +64494,71 @@
       {
         "name": "arXiv cs.AI",
         "ok": true,
-        "count": 276,
-        "matched": 111,
+        "count": 717,
+        "matched": 291,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-16T00:00:00-05:00",
-        "feedPublishedAt": "Mon, 16 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-17T00:00:00-05:00",
+        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.CR",
         "ok": true,
-        "count": 44,
-        "matched": 16,
+        "count": 116,
+        "matched": 46,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-16T00:00:00-05:00",
-        "feedPublishedAt": "Mon, 16 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-17T00:00:00-05:00",
+        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.MA",
         "ok": true,
-        "count": 20,
-        "matched": 7,
+        "count": 43,
+        "matched": 20,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-16T00:00:00-05:00",
-        "feedPublishedAt": "Mon, 16 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-17T00:00:00-05:00",
+        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.LG",
         "ok": true,
-        "count": 291,
-        "matched": 95,
+        "count": 774,
+        "matched": 282,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-16T00:00:00-05:00",
-        "feedPublishedAt": "Mon, 16 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-17T00:00:00-05:00",
+        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv stat.ML",
         "ok": true,
-        "count": 50,
-        "matched": 7,
+        "count": 115,
+        "matched": 20,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-16T00:00:00-05:00",
-        "feedPublishedAt": "Mon, 16 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-17T00:00:00-05:00",
+        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.CL",
         "ok": true,
-        "count": 117,
-        "matched": 47,
+        "count": 353,
+        "matched": 173,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-16T00:00:00-05:00",
-        "feedPublishedAt": "Mon, 16 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-17T00:00:00-05:00",
+        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
       }
     ],
-    "newItems": 85,
-    "omittedForLimit": 124,
+    "newItems": 0,
+    "omittedForLimit": 2,
     "mode": "rss-with-pending-cache",
-    "addedByIssue": {
-      "2026-11-17": 85
-    },
+    "addedByIssue": {},
     "collectorVersion": 2,
-    "pendingItems": 0,
+    "pendingItems": 584,
     "scanStart": "2026-11-10T09:00:00+08:00",
-    "scanEnd": "2026-11-17T03:49:07.808208+00:00"
+    "scanEnd": "2026-11-17T08:45:26.782630+00:00"
   }
 }
