@@ -2724,7 +2724,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-18T04:15:51.691588+00:00"
+      "updatedAt": "2026-11-18T08:09:47.498588+00:00"
     },
     {
       "date": "2026-11-17",
@@ -5313,7 +5313,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-18T04:15:51.691588+00:00"
+      "updatedAt": "2026-11-18T08:09:47.498588+00:00"
     },
     {
       "date": "2026-11-16",
@@ -10887,7 +10887,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-18T04:15:51.691588+00:00"
+      "updatedAt": "2026-11-18T08:09:47.498588+00:00"
     },
     {
       "date": "2026-11-11",
@@ -67173,7 +67173,7 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-11-18T04:15:51.691588+00:00",
+    "completedAt": "2026-11-18T08:09:47.498588+00:00",
     "windowStart": "2026-11-17T09:00:00+08:00",
     "windowEnd": "2026-11-18T09:00:00+08:00",
     "sources": [
@@ -67220,73 +67220,71 @@
       {
         "name": "arXiv cs.AI",
         "ok": true,
-        "count": 717,
-        "matched": 291,
+        "count": 401,
+        "matched": 167,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-17T00:00:00-05:00",
-        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-18T00:00:00-05:00",
+        "feedPublishedAt": "Wed, 18 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.CR",
         "ok": true,
-        "count": 116,
-        "matched": 46,
+        "count": 69,
+        "matched": 21,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-17T00:00:00-05:00",
-        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-18T00:00:00-05:00",
+        "feedPublishedAt": "Wed, 18 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.MA",
         "ok": true,
-        "count": 43,
-        "matched": 20,
+        "count": 29,
+        "matched": 12,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-17T00:00:00-05:00",
-        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-18T00:00:00-05:00",
+        "feedPublishedAt": "Wed, 18 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.LG",
         "ok": true,
-        "count": 774,
-        "matched": 282,
+        "count": 358,
+        "matched": 140,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-17T00:00:00-05:00",
-        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-18T00:00:00-05:00",
+        "feedPublishedAt": "Wed, 18 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv stat.ML",
         "ok": true,
-        "count": 115,
-        "matched": 20,
+        "count": 42,
+        "matched": 8,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-17T00:00:00-05:00",
-        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-18T00:00:00-05:00",
+        "feedPublishedAt": "Wed, 18 Nov 2026 00:00:00 -0500"
       },
       {
         "name": "arXiv cs.CL",
         "ok": true,
-        "count": 353,
-        "matched": 173,
+        "count": 162,
+        "matched": 73,
         "missingDate": 0,
         "outsideWindow": 0,
-        "latestEntryAt": "2026-11-17T00:00:00-05:00",
-        "feedPublishedAt": "Tue, 17 Nov 2026 00:00:00 -0500"
+        "latestEntryAt": "2026-11-18T00:00:00-05:00",
+        "feedPublishedAt": "Wed, 18 Nov 2026 00:00:00 -0500"
       }
     ],
-    "newItems": 90,
-    "omittedForLimit": 496,
+    "newItems": 0,
+    "omittedForLimit": 2,
     "mode": "rss-with-pending-cache",
-    "addedByIssue": {
-      "2026-11-18": 90
-    },
+    "addedByIssue": {},
     "collectorVersion": 2,
-    "pendingItems": 0,
+    "pendingItems": 295,
     "scanStart": "2026-11-11T09:00:00+08:00",
-    "scanEnd": "2026-11-18T04:15:51.691588+00:00"
+    "scanEnd": "2026-11-18T08:09:47.498588+00:00"
   }
 }
