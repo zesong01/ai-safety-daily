@@ -2864,7 +2864,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-19T12:58:28.850049+00:00"
+      "updatedAt": "2026-11-19T21:28:57.210868+00:00"
     },
     {
       "date": "2026-11-18",
@@ -8179,7 +8179,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-19T12:58:28.850049+00:00"
+      "updatedAt": "2026-11-19T21:28:57.210868+00:00"
     },
     {
       "date": "2026-11-16",
@@ -70039,7 +70039,7 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-11-19T12:58:28.850049+00:00",
+    "completedAt": "2026-11-19T21:28:57.210868+00:00",
     "windowStart": "2026-11-18T09:00:00+08:00",
     "windowEnd": "2026-11-19T09:00:00+08:00",
     "sources": [
@@ -70056,11 +70056,11 @@
       {
         "name": "OpenAI",
         "ok": true,
-        "count": 1413,
+        "count": 1414,
         "matched": 3,
         "missingDate": 0,
         "outsideWindow": 1384,
-        "latestEntryAt": "2026-11-18T10:00:00+00:00",
+        "latestEntryAt": "2026-11-19T08:00:00+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -70151,6 +70151,6 @@
     "collectorVersion": 2,
     "pendingItems": 281,
     "scanStart": "2026-11-12T09:00:00+08:00",
-    "scanEnd": "2026-11-19T12:58:28.850049+00:00"
+    "scanEnd": "2026-11-19T21:28:57.210868+00:00"
   }
 }
