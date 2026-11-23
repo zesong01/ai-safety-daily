@@ -8,7 +8,7 @@
       "note": "自动采集不等于人工核验。arXiv 以 RSS 公告时间筛选，不把它称为首次投稿时间。",
       "articles": [],
       "automatic": true,
-      "updatedAt": "2026-11-23T07:43:43.493850+00:00"
+      "updatedAt": "2026-11-23T20:09:45.169180+00:00"
     },
     {
       "date": "2026-11-22",
@@ -4566,7 +4566,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-23T07:43:43.493850+00:00"
+      "updatedAt": "2026-11-23T20:09:45.169180+00:00"
     },
     {
       "date": "2026-11-20",
@@ -10077,7 +10077,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-23T07:43:43.493850+00:00"
+      "updatedAt": "2026-11-23T20:09:45.169180+00:00"
     },
     {
       "date": "2026-11-18",
@@ -15392,7 +15392,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-23T07:43:43.493850+00:00"
+      "updatedAt": "2026-11-23T20:09:45.169180+00:00"
     },
     {
       "date": "2026-11-16",
@@ -77252,7 +77252,7 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-11-23T07:43:43.493850+00:00",
+    "completedAt": "2026-11-23T20:09:45.169180+00:00",
     "windowStart": "2026-11-22T09:00:00+08:00",
     "windowEnd": "2026-11-23T09:00:00+08:00",
     "sources": [
@@ -77269,11 +77269,11 @@
       {
         "name": "OpenAI",
         "ok": true,
-        "count": 1422,
+        "count": 1423,
         "matched": 3,
         "missingDate": 0,
         "outsideWindow": 1393,
-        "latestEntryAt": "2026-11-22T00:00:00+00:00",
+        "latestEntryAt": "2026-11-23T08:00:00+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -77282,8 +77282,8 @@
         "count": 100,
         "matched": 0,
         "missingDate": 0,
-        "outsideWindow": 98,
-        "latestEntryAt": "2026-11-18T21:35:43+00:00",
+        "outsideWindow": 97,
+        "latestEntryAt": "2026-11-23T16:59:40+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -77364,6 +77364,6 @@
     "collectorVersion": 2,
     "pendingItems": 257,
     "scanStart": "2026-11-16T09:00:00+08:00",
-    "scanEnd": "2026-11-23T07:43:43.493850+00:00"
+    "scanEnd": "2026-11-23T20:09:45.169180+00:00"
   }
 }
