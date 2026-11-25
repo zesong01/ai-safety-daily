@@ -2593,7 +2593,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-25T09:28:54.756826+00:00"
+      "updatedAt": "2026-11-25T19:55:21.232644+00:00"
     },
     {
       "date": "2026-11-24",
@@ -9917,7 +9917,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-25T09:28:54.756826+00:00"
+      "updatedAt": "2026-11-25T19:55:21.232644+00:00"
     },
     {
       "date": "2026-11-20",
@@ -15428,7 +15428,7 @@
         }
       ],
       "automatic": true,
-      "updatedAt": "2026-11-25T09:28:54.756826+00:00"
+      "updatedAt": "2026-11-25T19:55:21.232644+00:00"
     },
     {
       "date": "2026-11-18",
@@ -82603,7 +82603,7 @@
     "recheck": "hourly"
   },
   "collection": {
-    "completedAt": "2026-11-25T09:28:54.756826+00:00",
+    "completedAt": "2026-11-25T19:55:21.232644+00:00",
     "windowStart": "2026-11-24T09:00:00+08:00",
     "windowEnd": "2026-11-25T09:00:00+08:00",
     "sources": [
@@ -82633,8 +82633,8 @@
         "count": 100,
         "matched": 0,
         "missingDate": 0,
-        "outsideWindow": 97,
-        "latestEntryAt": "2026-11-23T16:59:40+00:00",
+        "outsideWindow": 96,
+        "latestEntryAt": "2026-11-24T13:07:53+00:00",
         "feedPublishedAt": ""
       },
       {
@@ -82708,15 +82708,13 @@
         "feedPublishedAt": "Wed, 25 Nov 2026 00:00:00 -0500"
       }
     ],
-    "newItems": 85,
-    "omittedForLimit": 493,
+    "newItems": 0,
+    "omittedForLimit": 0,
     "mode": "rss-with-pending-cache",
-    "addedByIssue": {
-      "2026-11-25": 85
-    },
+    "addedByIssue": {},
     "collectorVersion": 2,
     "pendingItems": 355,
     "scanStart": "2026-11-18T09:00:00+08:00",
-    "scanEnd": "2026-11-25T09:28:54.756826+00:00"
+    "scanEnd": "2026-11-25T19:55:21.232644+00:00"
   }
 }
