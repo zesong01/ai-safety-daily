@@ -17692,5 +17692,40 @@
     ],
     "automatic": true,
     "_published": "2026-11-24T00:00:00-05:00"
+  },
+  {
+    "id": "feed-6ecbcea380ebcdc9",
+    "title": "Interpreting a recent acceleration in pretraining loss",
+    "category": "研究",
+    "topics": [
+      "safety",
+      "deep-learning",
+      "foundation-models"
+    ],
+    "source": "METR",
+    "publishedDate": "2026-11-24",
+    "importance": 3,
+    "summary": "原文摘要节选：OpenAI recently published the base-model log-perplexity of 13 models it has trained since GPT-3.5, measured on a…",
+    "why": "仅自动整理来源，不生成研究判断。",
+    "limitations": "自动采集 RSS 元数据，未人工核验全文；分类来自关键词，不代表安全结论。 厂商公告或演示不等于独立验证，也不等于真实事故。",
+    "points": [
+      "RSS 发布时间：2026-11-24T16:00:00+08:00"
+    ],
+    "tags": [
+      "Safety",
+      "Deep Learning",
+      "基座模型研究",
+      "Agent",
+      "Evaluation"
+    ],
+    "evidence": "自动采集 · 未人工核验",
+    "links": [
+      {
+        "label": "阅读原始来源",
+        "url": "https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss"
+      }
+    ],
+    "automatic": true,
+    "_published": "2026-11-24T00:00:00-08:00"
   }
 ]
